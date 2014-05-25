@@ -1,0 +1,622 @@
+1 3 615 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+type	INV_SON	
+type	INV_SON	
+type	N_CLASS	name	书签栏	
+type	E_CLASS	name	其他书签	
+type	E_CLASS	name	移动设备书签	
+type	BOOKMARK	name	【已修复】开机动画【言葉之庭】多分辨率【6月】 - 安卓综合交流区 动漫东东	url	http://my.comicdd.com/forum.php?mod=viewthread&tid=392595	
+type	BOOKMARK	name	CRF++使用小结 - xiaodongrush - 博客园	url	http://www.cnblogs.com/pangxiaodong/archive/2011/11/21/2256264.html	
+type	BOOKMARK	name	用一个API搞定一切 Segment.io为移动开发者提供便利的分析数据分发服务-CSDN.NET	url	http://www.csdn.net/article/2013-06-09/2815722-Segment.io	
+type	BOOKMARK	name	土著钓蛇_百度搜索	url	http://www.baidu.com/s?wd=%E5%9C%9F%E8%91%97%E9%92%93%E8%9B%87&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_n=2&rsv_sug3=1&rsv_sug1=1&rsv_sug4=23&inputT=1772	
+type	BOOKMARK	name	【转】怎样避免被动物吃掉_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2391036923?see_lz=1&pn=2	
+type	BOOKMARK	name	9QPUCE8L00051C97.html	url	http://comment.sports.163.com/sports2_bbs/9QPUCE8L00051C97.html	
+type	BOOKMARK	name	六款常用的linux C/C++ IDE - 软件开发 LUPA开源社区	url	http://www.lupaworld.com/article-210675-1.html	
+type	BOOKMARK	name	铂程斋--689，请你立刻鞠躬下台！	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=78330	
+type	BOOKMARK	name	Linux 抓取网页方式（curl+wget） - IT-Homer - 博客频道 - CSDN.NET	url	http://blog.csdn.net/sunboy_2050/article/details/7626929	
+type	BOOKMARK	name	Python执行系统命令的方法 os.system()，os.popen()，commands - renwofei423的个人空间 - 开源中国社区	url	http://my.oschina.net/renwofei423/blog/17403	
+type	BOOKMARK	name	中软国际逼迫员工辞职大内幕 - CSDN论坛 - CSDN.NET	url	http://bbs.csdn.net/topics/390491660	
+type	BOOKMARK	name	【疯狂猜图】球星篇_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2403225861	
+type	BOOKMARK	name	成为伟大开发者的“九步曲”-CSDN.NET	url	http://www.csdn.net/article/2013-06-18/2815805-what-makes-great-developer	
+type	BOOKMARK	name	javadoc_百度百科	url	http://baike.baidu.com/view/975838.htm	
+type	BOOKMARK	name	世界上有这么一类电影，我们把它们划入“牛逼”的行列（转）_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2166372101	
+type	BOOKMARK	name	【转AC】硬性分析DOTA2与LOL_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2402574201	
+type	BOOKMARK	name	感受风暴之灵和风行者的第一人称视角 - AcFun弹幕视频网	url	http://www.acfun.tv/v/ac702191	
+type	BOOKMARK	name	谢韬、恭城暴动及金庸、梁羽生之父之死_百度文库	url	http://wenku.baidu.com/view/ade38d2bcfc789eb172dc8e1.html	
+type	BOOKMARK	name	钩沉话历史-和讯财经微博-【曾国藩语录】1、与多疑人共事..	url	http://t.hexun.com/21237639/27284222_d.html	
+type	BOOKMARK	name	分类目录_搜索引擎_分类搜索目录_免费网站登录	url	http://15ad.com/163/	
+type	BOOKMARK	name	搜索引擎和分类目录登录入口__大庆久久网络科技有限公司	url	http://www.dq99.net/service/jiujiu09489982.html	
+type	BOOKMARK	name	中文搜索引擎及目录	url	http://www.douban.com/group/topic/3456379/	
+type	BOOKMARK	name	[转] 总结最全的搜索引擎登录入口和分类目录登录入口	url	http://www.360doc.com/content/10/0721/17/2074462_40474947.shtml	
+type	BOOKMARK	name	[Python]网络爬虫（二）：利用urllib2通过指定的URL抓取网页内容 - 汪海的实验室 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/wxg694175346/article/details/8923067	
+type	BOOKMARK	name	陈光诚前顾问：中国施压说法令人不解_中国实时报_华尔街日报_wsj.com	url	http://cn.wsj.com/gb/20130620/rlw093319.asp	
+type	BOOKMARK	name	使用chrome查看http请求 | whosblog	url	http://www.whoslab.me/blog/?p=416	
+type	BOOKMARK	name	拜仁幼儿园假期系列第二弹~来看看小破仁的熊孩子们最近在干嘛_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2405632680?see_lz=1	
+type	BOOKMARK	name	【盘点】 15大现役足坛的“长传高手”_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2406465283?see_lz=1&pn=2	
+type	BOOKMARK	name	水小幕喜欢牛蛙，我会乱说，真相在视频里_dota吧_百度贴吧	url	http://tieba.baidu.com/p/1801055513	
+type	BOOKMARK	name	清仓大降价！三星Q1便携电脑原配高端超薄USB小键盘 带指点杆-淘宝网	url	http://item.taobao.com/item.htm?spm=a230r.1.14.38.kM0Df6&id=12642880891	
+type	BOOKMARK	name	美国产屈蹲弹簧轴式机械键盘 MODEL M 系列 带指点杆 UNICOMP标-淘宝网	url	http://item.taobao.com/item.htm?spm=a230r.1.14.77.kM0Df6&id=23117524094	
+type	BOOKMARK	name	yooreeka - A library for data mining, machine learning, soft computing, and mathematical analysis - Google Project Hosting	url	http://code.google.com/p/yooreeka/	
+type	BOOKMARK	name	AF-A;AF-S和AF-C有什么区别？_爱问知识人	url	http://iask.sina.com.cn/b/16540823.html	
+type	BOOKMARK	name	数字尾巴-分享美好数字生活	url	http://www.dgtle.com/	
+type	BOOKMARK	name	回首过往-GRD 4 街拍分享-数字尾巴	url	http://www.dgtle.com/article-3814-1.html	
+type	BOOKMARK	name	第二章 多元正态分布_百度文库	url	http://wenku.baidu.com/view/19d301d384254b35eefd34da.html	
+type	BOOKMARK	name	【真假瓜农之女】-杂谈吧 | 微吧 一起扎堆吧！	url	http://weiba.weibo.com/10015/t/A0RWS3BWa	
+type	BOOKMARK	name	酒好也怕巷子深：推销移动应用的9个技巧 | 36氪	url	http://www.36kr.com/p/204829.html	
+type	BOOKMARK	name	AI's 10 to Watch 2013 - IEEECS	url	http://www.computer.org/portal/web/computingnow/AI-s-10-to-Watch-2013	
+type	BOOKMARK	name	【转】盘点足坛史上感动瞬间Top50_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2341843397?see_lz=1	
+type	BOOKMARK	name	铂程斋--人有愚昧的权利吗	url	http://dapenti.org/blog/more.asp?name=xilei&id=77386	
+type	BOOKMARK	name	【新浪】拜仁太太团阅兵：诺伊尔为她转会 穆勒这对太奇葩_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2343045451?see_lz=1	
+type	BOOKMARK	name	《耶路撒冷的艾希曼》:伦理的现代困境/汉娜·阿伦特-图书-亚马逊	url	http://www.amazon.cn/%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E7%9A%84%E8%89%BE%E5%B8%8C%E6%9B%BC-%E4%BC%A6%E7%90%86%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%9B%B0%E5%A2%83-%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9/dp/B004QTQAA0/ref=sr_1_6?ie=UTF8&qid=1369202082&sr=8-6&keywords=%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7	
+type	BOOKMARK	name	铂程斋--山东上访小伙许帅：惟一能对抗现实的，是英国媳妇	url	http://dapenti.org/blog/more.asp?name=xilei&id=77415	
+type	BOOKMARK	name	战争与和平——人民需要觉醒_茅于轼_新浪博客	url	http://blog.sina.com.cn/s/blog_49a3971d0102ebz5.html	
+type	BOOKMARK	name	【技术水】国际足坛20大惹不起_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2344328482?see_lz=1	
+type	BOOKMARK	name	机器学习 --- 5. 大内密探HMM(隐马尔可夫)围捕赌场老千 - 小小鸟小小 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/ppn029012/article/details/8923501	
+type	BOOKMARK	name	铂程斋--“小劳教”的饥荒年	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=77474	
+type	BOOKMARK	name	新成立的 Google Capital 投资基金未来将着眼于技术成熟公司	url	http://cn.engadget.com/2013/05/23/google-capital-to-make-investments-in-maturing-tech-firms/	
+type	BOOKMARK	name	清空std::stringstream，联系到stream的clear()和清空 - chjp2046的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/chjp2046/article/details/5460462	
+type	BOOKMARK	name	科通芯城,中国首家IC元器件自营电商100%正品保证—IC,电子元器件,IC元器件,IC采购,电子元器件网,IC交易,电子元器件采购	url	http://www.cogobuy.com/	
+type	BOOKMARK	name	大家记得费耶诺德小球迷竖中指的图片？原来和多特有关_多特蒙德吧_百度贴吧	url	http://tieba.baidu.com/p/2347771631	
+type	BOOKMARK	name	【720P英语下载】2012/13赛季欧冠决赛 BVB-FCB （含赛前赛后）_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2351004965	
+type	BOOKMARK	name	【没品足球】（转自曼联吧）_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2353478724?pn=2	
+type	BOOKMARK	name	铂程斋--喷嚏邮件列表服务	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=77629	
+type	BOOKMARK	name	响应式设计时代，我们该如何设计网站？-CSDN.NET	url	http://www.csdn.net/article/2013-05-25/2815431	
+type	BOOKMARK	name	【热血原创】有一种坚持叫做拜仁！—2013拜仁欧冠夺冠纪念MV发布_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2354284871?see_lz=1	
+type	BOOKMARK	name	OHSUMED_百度百科	url	http://baike.baidu.com/view/3577228.htm	
+type	BOOKMARK	name	VC对创业公司进行估值时会想的8件事 | 36氪	url	http://www.36kr.com/p/203241.html	
+type	BOOKMARK	name	心不在焉、视而不见是高智商的表现 | 36氪	url	http://www.36kr.com/p/203596.html	
+type	BOOKMARK	name	Ezilon中国网站目录与搜索引擎	url	http://cn.ezilon.com/	
+type	BOOKMARK	name	appdata 命令_百度搜索	url	http://www.baidu.com/s?tn=baiduhome_pg&ie=utf-8&bs=appdata&f=8&rsv_bp=1&rsv_spt=1&wd=appdata+%E5%91%BD%E4%BB%A4&rsv_sug3=5&rsv_sug=0&rsv_sug1=4&rsv_sug4=91&inputT=2152	
+type	BOOKMARK	name	自然语言处理与信息检索共享平台 NLPIR.org - Powered by SupeSite	url	http://www.nlpir.org/	
+type	BOOKMARK	name	The Stanford NLP (Natural Language Processing) Group	url	http://nlp.stanford.edu/software/segmenter.shtml	
+type	BOOKMARK	name	nlpbamboo - bamboo是一个中文语言处理系统。 - Google Project Hosting	url	https://code.google.com/p/nlpbamboo/	
+type	BOOKMARK	name	Downloads - friso - C语言开源中文高性能分词组件，C语言mmseg中文分词 《狮子的魂》 - Google Project Hosting	url	https://code.google.com/p/friso/downloads/list	
+type	BOOKMARK	name	图解拜仁慕尼黑的荣誉史，图偏大，点大慎重_欧罗巴_看看新闻网	url	http://sports.kankanews.com/Europa/2013-05-31/1665964.shtml	
+type	BOOKMARK	name	乐高积木完美还原欧冠决赛 秃头罗本成最大亮点_网易体育	url	http://sports.163.com/13/0530/09/9044UERS00051C97.html	
+type	BOOKMARK	name	陈少敏_百度百科	url	http://baike.baidu.com/view/93387.htm	
+type	BOOKMARK	name	搜索含有\"Mariln Manson\"的音乐_百度音乐-中国第一音乐门户	url	http://music.baidu.com/search?fr=ps&key=Mariln%20Manson&ie=utf-8	
+type	BOOKMARK	name	铂程斋--妈妈！我捡瓶子为您治病	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=77858	
+type	BOOKMARK	name	铂程斋--牛奶记忆：未检出三聚氰胺	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=14854	
+type	BOOKMARK	name	Java环境配置及Eclipse入门_百度文库	url	http://wenku.baidu.com/view/315ce50d4a7302768e9939ae.html	
+type	BOOKMARK	name	Perceptual：英特尔感知计算挑战赛 正式启动-CSDN.NET	url	http://www.csdn.net/article/2013-05-20/2815350-Intel-perceptual-competition	
+type	BOOKMARK	name	Arrow：轻量级的Python时间日期库-CSDN.NET	url	http://www.csdn.net/article/2013-06-04/2815535-Arrow-Python	
+type	BOOKMARK	name	IPTV IPv6 网络电视在线直播 - Daoiqi	url	http://www.daoiqi.com/iptv6.html	
+type	BOOKMARK	name	星期天健身俱乐部价格,地址(图)-北京健身中心-大众点评网	url	http://www.dianping.com/shop/1768720#bd=baidu_map	
+type	BOOKMARK	name	铂程斋--百年复兴：关于中国共产党的“天命”的对话	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=79658	
+type	BOOKMARK	name	【开坑】真人快打9全人物个人结局中文版_真人快打吧_百度贴吧	url	http://tieba.baidu.com/p/2461101004	
+type	BOOKMARK	name	【山寨版本球星】我是搬运工- -、_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2468923121	
+type	BOOKMARK	name	【TOP50】天朝五十大女神，你最不服谁？ -转-_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2466891167?see_lz=1	
+type	BOOKMARK	name	【DOTA2全球匹配】DOTA2积分制度解读，我觉得还不如11……………_dota吧_百度贴吧	url	http://tieba.baidu.com/p/1745158720	
+type	BOOKMARK	name	opencv和matlab计时 - 龙马行空的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/zhang11wu4/article/details/8057475	
+type	BOOKMARK	name	Mixamo: Sign up	url	http://www.mixamo.com/signup?redir=%2Fupload_character	
+type	BOOKMARK	name	值得收藏的14款响应式前端开发框架-CSDN.NET	url	http://www.csdn.net/article/2013-07-25/2816344	
+type	BOOKMARK	name	TME Motorway Dataset (Vehicle detection)	url	http://cmp.felk.cvut.cz/data/motorway/	
+type	BOOKMARK	name	Directory listing for ptak.felk.cvut.cz/motorway/ITSC2012_evaluator/	url	http://ptak.felk.cvut.cz/motorway/ITSC2012_evaluator/	
+type	BOOKMARK	name	这绝对是这辈子看的最吊的比赛之一……96分钟……_dota2吧_百度贴吧	url	http://tieba.baidu.com/p/2485061257	
+type	BOOKMARK	name	MultiBoost	url	http://www.multiboost.org/	
+type	BOOKMARK	name	拜仁大活宝 520 250_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2470937677?see_lz=1	
+type	BOOKMARK	name	铂程斋--【喷嚏图卦20130821】生活的悲欢离合远在地平线以外，而眺望是一种青春的姿态	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=81233	
+type	BOOKMARK	name	这几天翻老台式，找到了点米兰的比赛，来谈谈那时候的米兰_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2556254295	
+type	BOOKMARK	name	煤球球感，谁可一战。_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2556143240	
+type	BOOKMARK	name	周云蓬_中国孩子.rar等_免费高速下载|百度云 网盘-分享无限制	url	http://pan.baidu.com/share/link?shareid=2208802019&uk=2167459178&third=15	
+type	BOOKMARK	name	三联生活周刊 胡适与自由主义_百度搜索	url	http://www.baidu.com/s?wd=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%83%A1%E9%80%82%E4%B8%8E%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_sug3=21&rsv_sug=0&rsv_sug1=20&rsv_sug4=254	
+type	BOOKMARK	name	胡适与自由主义——被四面夹击的胡适（转自三联生活周刊） - 胡适 Dr Hu的日志,人人网,胡适 Dr Hu的公共主页	url	http://page.renren.com/600992937/note/849341710	
+type	BOOKMARK	name	【GIF】超级杯拜仁球员被屡次粗野犯规_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2567688290?pn=2	
+type	BOOKMARK	name	随着客场球服一起出来的巴伐利亚系列不能再好看了_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2570394459	
+type	BOOKMARK	name	一周热点：Linux黑客车库创业、35岁以下的IT大牛们、15步实现技术创业-CSDN.NET	url	http://www.csdn.net/article/2013-08-30/2816774	
+type	BOOKMARK	name	麻省理工TR35之IT界年轻有为创新者（上）-CSDN.NET	url	http://www.csdn.net/article/2013-08-26/2816705-innovators-under-35	
+type	BOOKMARK	name	所见即所得：四款免编程移动游戏开发引擎推荐-CSDN.NET	url	http://www.csdn.net/article/2013-08-29/2816749-Non-Programming-game-tools	
+type	BOOKMARK	name	[杨晃]火遍全球！巴西神曲Ai Se Eu Te Pego 最新好听舞曲版—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMzUwODg5OTI0.html	
+type	BOOKMARK	name	【中葡字幕】Michel Teló - Ai Se Eu Te Pego [Me愛FFS字幕]—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMzY3MjE5MTE2.html	
+type	BOOKMARK	name	西班牙小朋友唱特别版Ai se eu te pego希望瓜帅续约—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMzYyOTMxOTMy.html	
+type	BOOKMARK	name	Ai se eu te pego--假如你捕获了我 中葡双语—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMzMxMzg4NzQw.html	
+type	BOOKMARK	name	铂程斋--红卫兵就文革杀人忏悔 受害者家属：你认账 佩服你	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=81751	
+type	BOOKMARK	name	刘丹青 中国新闻周刊_百度搜索	url	http://www.baidu.com/s?tn=baiduhome_pg&ie=utf-8&bs=%E5%88%98%E4%B8%B9%E9%9D%92&f=8&rsv_bp=1&rsv_spt=1&wd=%E5%88%98%E4%B8%B9%E9%9D%92+%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A&rsv_sug3=15&rsv_sug1=13&rsv_sug4=203&rsv_sug=1&inputT=4822	
+type	BOOKMARK	name	20款发展最快的开发者工具 | 36氪	url	http://www.36kr.com/p/205889.html	
+type	BOOKMARK	name	自动化编排，配合SDN的iMC V7更加开放-CSDN.NET	url	http://www.csdn.net/article/2013-08-30/2816768-interview-H3C-iMC-V7	
+type	BOOKMARK	name	Sony DSC-QX100 与 QX10 镜头相机正式登场！可与平板和智能手机搭配使用（更新：台湾动手玩）	url	http://cn.engadget.com/2013/09/04/sony-qx100-qx10-lens-cameras/	
+type	BOOKMARK	name	美化代码的15个代码语法高亮工具-CSDN.NET	url	http://www.csdn.net/article/2013-09-04/2816818-15-Code-Syntax-Highlighters-To-Prettify-Your-Code	
+type	BOOKMARK	name	Bash Shell Programming in Linux	url	http://arachnoid.com/linux/shell_programming.html	
+type	BOOKMARK	name	五大联赛烧钱创6年新高 英超超西德之和_网易体育数据酷	url	http://sports.163.com/13/0906/00/9823A3U7000506UA.html	
+type	BOOKMARK	name	User Shell Folders | SS64.com	url	http://ss64.com/nt/syntax-folders.html	
+type	BOOKMARK	name	百度云 网盘-ya*****8@163.com的分享	url	http://pan.baidu.com/share/home?uk=3090551316#category/type=0	
+type	BOOKMARK	name	Ai Weiwei | Ai Weiwei Releases New Album “The Divine Comedy”	url	http://aiweiwei.com/zh/music/the-divine-comedy	
+type	BOOKMARK	name	chrome.bookmarks - Google Chrome	url	http://developer.chrome.com/extensions/bookmarks.html	
+type	BOOKMARK	name	【白话经典算法系列之十五】“一步千里”之数组找数 - MoreWindows - 博客频道 - CSDN.NET	url	http://blog.csdn.net/morewindows/article/details/10645269	
+type	BOOKMARK	name	Web设计的新宠儿：卡片式设计-CSDN.NET	url	http://www.csdn.net/article/2013-09-09/2816868-why-cards-are-the-future-of-the-web	
+type	BOOKMARK	name	看15岁的谷歌的前21位员工现在都在做什么-CSDN.NET	url	http://www.csdn.net/article/2013-09-09/2816865-googles-first-employees	
+type	BOOKMARK	name	The Seven Years That Changed Everything | Smashing Magazine	url	http://www.smashingmagazine.com/2013/09/05/the-seven-years-that-changed-everything/	
+type	BOOKMARK	name	Linux多线程——使用互斥量同步线程 - ljianhui的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/ljianhui/article/details/10875883	
+type	BOOKMARK	name	一周回复精选（13.9.8）：诺基亚	url	http://cn.engadget.com/2013/09/08/comments-of-the-week-13-09-08/	
+type	BOOKMARK	name	Freebies — Polaris UI Kit + Linecons Icon Set (AI, PDF, PNG, PSD, SVG) | Smashing Magazine	url	http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/	
+type	BOOKMARK	name	Fantastic Wallpapers That Will Blow Your Desktop Away | Smashing Magazine	url	http://www.smashingmagazine.com/2009/05/10/fantastic-wallpapers-that-will-blow-your-desktop-away/	
+type	BOOKMARK	name	Texture Gallery: Sand, Earth | Smashing Magazine	url	http://www.smashingmagazine.com/texture-gallery-sand-earth/	
+type	BOOKMARK	name	铂程斋--说给文科新生听的几句酸话	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=81969	
+type	BOOKMARK	name	门户开放_百度百科	url	http://baike.baidu.com/link?url=61IZI9Jdi_vTdSgOdlHpvoLL-xcreDu99it3jwY4OxV9cPVQAakIgvmX0gXoqtDZ	
+type	BOOKMARK	name	追女孩子的技巧和谈恋爱技巧...尽在PUA Home|坏男孩学院	url	http://www.puahome.com/bbs/portal.php	
+type	BOOKMARK	name	拜仁慕尼黑一线队全面分析(慢更)_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2587644235?see_lz=1	
+type	BOOKMARK	name	Computer Vision Datasets	url	http://clickdamage.com/sourcecode/cv_datasets.php	
+type	BOOKMARK	name	超越平凡的平面设计:版式设计原理与应用/麦克韦德(John McWade)-图书-亚马逊中国 [板式设计, 排版设计]	url	http://www.amazon.cn/%E8%B6%85%E8%B6%8A%E5%B9%B3%E5%87%A1%E7%9A%84%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1-%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8-%E9%BA%A6%E5%85%8B%E9%9F%A6%E5%BE%B7/dp/B0046UT08S/ref=sr_1_1?ie=UTF8&qid=1378976697&sr=8-1&keywords=%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1	
+type	BOOKMARK	name	给美国总统上上庙号和谥号，会是什么样呢？ - 知乎	url	http://www.zhihu.com/question/21596409?utm_source=weekly-digest&utm_medium=email&utm_campaign=weekly99	
+type	BOOKMARK	name	【视界】第127期：全运会荣耀的背后_网易体育	url	http://sports.163.com/photoview/4G8F0005/103173.html#p=98SKA6PH4G8F0005	
+type	BOOKMARK	name	中国银河证券-多媒体讲堂	url	http://www.chinastock.com.cn/yhwz/medialecture/mediaLectureAction.do?methodCall=toInfo&docId=3701442	
+type	BOOKMARK	name	Boost学习系列2-智能指针(下) - JuanA1的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/juana1/article/details/6624291	
+type	BOOKMARK	name	【视频已更新】纪录片【Рожденные в СССР/Born in USSR】的简介和人物介绍	url	http://www.douban.com/note/299264327/	
+type	BOOKMARK	name	IBM SPSS Statistics	url	http://pic.dhe.ibm.com/infocenter/spssstat/v20r0m0/index.jsp?topic=%2Fcom.ibm.spss.statistics.help%2Falg_tree-cart.htm	
+type	BOOKMARK	name	为何人人都将成为程序员？看32位美国顶尖精英的说法！-CSDN.NET	url	http://www.csdn.net/article/2013-09-13/2816938-how-successful-man-teach-us-to-coding	
+type	BOOKMARK	name	CSDN Share	url	http://share.csdn.net/#/detail/854	
+type	BOOKMARK	name	罗家伦_百度百科	url	http://baike.baidu.com/link?url=i32oW4JYuvRlKbIEVoaVRHZW0ipxhxX3Tlj-snZT0mdtBHu_NpMgtQeP3j60s5Pk	
+type	BOOKMARK	name	在线查询正则表达式的Unicode编码，查询汉字Unicode,查询汉字的正则表达式，某一汉字正则表达式	url	http://www.goberl.com/functionaspx/demandRegexCoding.aspx	
+type	BOOKMARK	name	爆笑恶搞！11区人民教你道歉的姿势 | 掘图志	url	http://juetuzhi.net/2013/09/jue-tu-7628.html	
+type	BOOKMARK	name	德国传统服饰5折起，全球直邮 » dazhe.de - 德国打折网	url	http://www.dazhe.de/cn/2013/26819	
+type	BOOKMARK	name	用条件变量实现事件等待器的正确与错误做法 - 陈硕的Blog - 博客频道 - CSDN.NET	url	http://blog.csdn.net/solstice/article/details/11432817	
+type	BOOKMARK	name	UX设计师应当规避的七大问题-CSDN.NET	url	http://www.csdn.net/article/2013-02-20/2814200-ux-design-mistakes	
+type	BOOKMARK	name	Nikon F3 俱乐部 - 无忌摄影论坛	url	http://forum.xitek.com/forum-viewthread-action-printable-tid-1032365.html	
+type	BOOKMARK	name	有人在豆瓣上发帖问有8万块钱怎么买相机。。下面有一位兄弟的回帖	url	http://www.douban.com/note/151359212/	
+type	BOOKMARK	name	喷TA秀：第七期 葫芦岛小智做客喷Ta秀—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjEwNDczODgw.html	
+type	BOOKMARK	name	世界排名前十的门将_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2605314346	
+type	BOOKMARK	name	网友评国内十大最坑爹景点_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2604874771	
+type	BOOKMARK	name	卡恩:拜仁请瓜帅绝对正确 批评是萨默尔典型风格_体育跟贴2版_网易跟贴	url	http://comment.sports.163.com/sports2_bbs/994HLM3400051C97.html	
+type	BOOKMARK	name	C#调用C++DLL传递结构体数组的终极解决方案 - 如意的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/xxdddail/article/details/11781003	
+type	BOOKMARK	name	最新的现役球员各位置TOP5，过去的排名都弱爆了。_尤文图斯吧_百度贴吧	url	http://tieba.baidu.com/p/2579467027?see_lz=1	
+type	BOOKMARK	name	\u003C转>让人大吃一惊的各种动物逆天行为！！！_切尔西吧_百度贴吧	url	http://tieba.baidu.com/p/2550562002#37799295832l	
+type	BOOKMARK	name	曼朱基齐这球员拜仁买到了可真是占了个便宜_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2608734554	
+type	BOOKMARK	name	《分享》英超直播信号！真正的720p高清直播信号，绝对不卡！_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2608342164	
+type	BOOKMARK	name	球吧网 - 近期足球直播表 - 全球体育赛事直播 - www.ballbar.cc	url	http://www.ballbar.cc/SportClass/Type1Live.htm	
+type	BOOKMARK	name	无穷带来的各种悖论_尤文图斯吧_百度贴吧	url	http://tieba.baidu.com/p/2608436621	
+type	BOOKMARK	name	话说风云足球的那个拜仁的视频_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2608539743	
+type	BOOKMARK	name	学林电子官方直营店－ihifi760专业级随身播放器-淘宝网	url	http://item.taobao.com/item.htm?spm=a1z10.5.w4002-2482748411.24.1ksQaQ&id=19283249964&qq-pf-to=pcqq.c2c	
+type	BOOKMARK	name	jendo.org/files/doc/div.html	url	http://jendo.org/files/doc/div.html	
+type	BOOKMARK	name	推荐五款流行的JavaScript模板引擎-CSDN.NET	url	http://www.csdn.net/article/2013-09-16/2816951-top-five-javascript-templating-engines	
+type	BOOKMARK	name	推荐10款免费的在线UI测试工具-CSDN.NET	url	http://www.csdn.net/article/2013-09-22/2816984-10-free-online-ui-test-tools-for-web-developers-and-designers	
+type	BOOKMARK	name	铂程斋--PPT的秘密	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=9092	
+type	BOOKMARK	name	铂程斋--在德国：养老改革曲折路	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=82540	
+type	BOOKMARK	name	铂程斋--从程序员到技术领导者	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=478	
+type	BOOKMARK	name	转【数据说话】2010-2013世界足坛50大神锋,排名公正客观_尤文图斯吧_百度贴吧	url	http://tieba.baidu.com/p/2597189025?see_lz=1&pn=2	
+type	BOOKMARK	name	【转】日本真的像你想象的那样吗? 戳进来找真相_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2278145353	
+type	BOOKMARK	name	char类型与Unicode编码 - QGJava的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/qgjava/article/details/5726840	
+type	BOOKMARK	name	夏俊峰的人生轨迹_网易新闻中心	url	http://focus.news.163.com/11/0510/09/73MBD3AI00011SM9.html	
+type	BOOKMARK	name	孟胜_百度百科	url	http://baike.baidu.com/link?url=G1I86dxkoEjzPREHkZ57KPMfQLfymTxTCmweeou7fhkQ_0GlL56cd8QBmVvcHe9lhLJVeeMhCTd2_2WJ-ul3fK	
+type	BOOKMARK	name	以活页夹作为核心概念的社会化协作平台Moxtra宣布完成1000万美元投资 | 36氪	url	http://www.36kr.com/p/206498.html	
+type	BOOKMARK	name	【夏俊峰案一二审法棺名录】_韩寒吧_百度贴吧	url	http://tieba.baidu.com/p/1076074731	
+type	BOOKMARK	name	皇马主席:C罗不贪财想在皇马退役 贝尔真挺便宜_体育跟贴2版_网易跟贴	url	http://comment.sports.163.com/sports2_bbs/99KCEPKF00051C8V.html	
+type	BOOKMARK	name	音乐对编程的影响 | 外刊IT评论网	url	http://www.aqee.net/the-effects-of-working-with-music/	
+type	BOOKMARK	name	从4张照片看蒋公的忧国忧民和毛某人的事不关己高高挂起_浙江吧_百度贴吧	url	http://tieba.baidu.com/p/2472526675	
+type	BOOKMARK	name	SD Japan | StartupDating Co., Ltd.	url	http://www.startup-dating.com/	
+type	BOOKMARK	name	simple-adaboost - this is a adaboost tool developed by c++ - Google Project Hosting	url	http://code.google.com/p/simple-adaboost/	
+type	BOOKMARK	name	GML AdaBoost Matlab Toolbox | Graphics and Media Lab	url	http://graphics.cs.msu.ru/en/science/research/machinelearning/adaboosttoolbox	
+type	BOOKMARK	name	Dr. Wohlfahrt - Google Search	url	http://www.google.com.hk/search?newwindow=1&safe=off&q=Dr.%20Wohlfahrt&bav=on.2,or.&bvm=bv.53217764,d.dGI,pv.xjs.s.en_US.Es3CeXuAQeM.O&biw=1440&bih=762&dpr=1&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=34hFUp3eCZGmkgWB74D4Ag	
+type	BOOKMARK	name	iOS 版 Maxthon 更新：将內容「搖晃发送」至云端的新功能	url	http://cn.engadget.com/2013/09/27/maxthon-ios7-browser/	
+type	BOOKMARK	name	程序猿强烈“不推荐”安装的100个常用软件！_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2622931938?see_lz=1&pn=4	
+type	BOOKMARK	name	f.lux: software to make your life better	url	http://justgetflux.com/	
+type	BOOKMARK	name	sports.163.com/special/00051K7F/rss_sportsdj.xml	url	http://sports.163.com/special/00051K7F/rss_sportsdj.xml	
+type	BOOKMARK	name	harthur.github.io/kittydar/	url	http://harthur.github.io/kittydar/	
+type	BOOKMARK	name	Downloads - gacv - 用 gabor 和 AdaBoost (MultiBoost ) 和图像梯度信息局部边沿方向做目标检测图像识别 - Google Project Hosting	url	http://code.google.com/p/gacv/downloads/list	
+type	BOOKMARK	name	铂程斋--这些话，是乔布斯给世间留下的真正伟大礼物	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=83020	
+type	BOOKMARK	name	直接开始用：5个免费的在线思维组织工具-CSDN.NET	url	http://www.csdn.net/article/2013-10-08/2817115-5-free-tools-to-organize-your-thoughts	
+type	BOOKMARK	name	囧司徒每日秀合集	url	http://www.asmou.cn/videolist-do-tag-id-98.html	
+type	BOOKMARK	name	【李振盛目击系列】目击迫害欧阳湘_李振盛-無為齋主_新浪博客	url	http://blog.sina.com.cn/s/blog_62aefc6a0101apqr.html	
+type	BOOKMARK	name	風立ちぬ（汉语译文，简体中文）.doc_免费高速下载|百度云 网盘-分享无限制	url	http://pan.baidu.com/share/link?uk=3173727397&shareid=519769	
+type	BOOKMARK	name	李振盛和他的《红色新闻兵》（上） - 数码天地 - 大众论坛	url	http://bbs.dzwww.com/thread-24740757-1-1.html	
+type	BOOKMARK	name	各豪门的十大错觉！！！！！！！！！_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2656290188?see_lz=1	
+type	BOOKMARK	name	【转】意吹、西吹、德吹、英吹。哪个最凶残？_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2656419116?see_lz=1	
+type	BOOKMARK	name	在各大豪门贴吧搜索各队骂名，看看那支球队名气最臭~~~~~_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2656433694?see_lz=1	
+type	BOOKMARK	name	人民日报：国足惨淡因未遵足球规律_巴塞罗那吧_百度贴吧	url	http://tieba.baidu.com/p/2656502351	
+type	BOOKMARK	name	罗马尼亚插画师画的德国队肖像之格胖子_格策吧_百度贴吧	url	http://tieba.baidu.com/p/2646435785	
+type	BOOKMARK	name	马英九：中国大陆仍是我们的领土_网易新闻中心	url	http://news.163.com/13/1018/11/9BFEMUO00001124J.html	
+type	BOOKMARK	name	梅西儿子随队到米兰！！！！真萌！！！！_巴塞罗那吧_百度贴吧	url	http://tieba.baidu.com/p/2664134437	
+type	BOOKMARK	name	51Give - 我要给予	url	http://www.51give.org/project.php?pid=96	
+type	BOOKMARK	name	莱万多夫斯基神级假动作~_皇家马德里吧_百度贴吧	url	http://tieba.baidu.com/p/2164976062	
+type	BOOKMARK	name	chinese food_nihilism_新浪播客	url	http://video.sina.com.cn/v/b/116933174-1788911247.html	
+type	BOOKMARK	name	铂程斋--韩寒：这里没有末路，你从不曾孤独	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=52948	
+type	BOOKMARK	name	绵阳市人民医院关于对我院医生兰越峰相关报道致网友的一封信 - 绵阳论坛 - 天府社区 -	url	http://www.scol.cn/thread-14685961-1-1.html	
+type	BOOKMARK	name	各豪门十大错觉_皇家马德里吧_百度贴吧	url	http://tieba.baidu.com/p/2656066606	
+type	BOOKMARK	name	Cannonball	url	http://cannonball.io/	
+type	BOOKMARK	name	抢断，盘带，助攻，点球，他不仅仅只是一个门将，他是神_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2670155046	
+type	BOOKMARK	name	Debian 6解决中文乱码 - colorful - C++博客	url	http://www.cppblog.com/colorful/archive/2012/05/28/176516.aspx	
+type	BOOKMARK	name	小爷不狂的空间 优酷视频空间-聊聊影视，聊聊明星！	url	http://i.youku.com/u/UMTQ0MzE0NTAw	
+type	BOOKMARK	name	程序员必看的十大电影 | 外刊IT评论网	url	http://www.aqee.net/top-10-movies-for-programmers/	
+type	BOOKMARK	name	十款开源的数据库管理工具-CSDN.NET	url	http://www.csdn.net/article/2013-10-22/2817254-10-Handy-and-Useful-Database-Management-Tools-for-Developers	
+type	BOOKMARK	name	一个Bug导致每秒钟亏172,222美元，持续了45分钟 - 博客 - 伯乐在线	url	http://blog.jobbole.com/50392/	
+type	BOOKMARK	name	Livescribe 3 主站动手玩，无线智慧笔也能很古典有型	url	http://cn.engadget.com/2013/10/28/livescribe-3/	
+type	BOOKMARK	name	NASA - NOAA-N	url	http://www.nasa.gov/mission_pages/noaa-n/main/index.html	
+type	BOOKMARK	name	语音云-云知声语音云开发者平台	url	http://www.yunzhisheng.cn/usc.html	
+type	BOOKMARK	name	Nokia's Xpress browser has been blocked by China's Great Firewall | Windows Phone Central	url	http://www.wpcentral.com/nokias-xpress-browser-has-been-blocked-chinas-great-firewall	
+type	BOOKMARK	name	The HTML5 test - How well does your browser support HTML5?	url	http://html5test.com/	
+type	BOOKMARK	name	OpenCV-Python Tutorials — OpenCV-Python Tutorials 1 documentation	url	https://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html	
+type	BOOKMARK	name	现在整个欧洲都在感谢皇马，只有皇马在哭。〔转〕_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2677693344	
+type	BOOKMARK	name	常见SUV（包括纯种越野车）越野能力评分_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2677114336?see_lz=1	
+type	BOOKMARK	name	【情意亚平宁】致青春，魔术师卡卡逆转时光_网易体育	url	http://sports.163.com/photoview/5DA20005/105296.html#p=9CHJ7D0N5DA20005	
+type	BOOKMARK	name	足球正能量，这些图片能否触动你的心灵？_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2679856747?see_lz=1	
+type	BOOKMARK	name	上海生死劫_百度百科	url	http://baike.baidu.com/link?url=2HUZpGYEWWt9Xt5E3O5a3qYDf4kXVTAXo1x2vx-Nph6UCaXNntbSBU1C2nITBM6h4UXEedg7wi5a9zxFou8wf_	
+type	BOOKMARK	name	复仇女神虫子流。_在线视频观看_土豆网视频 澄海 复仇女神 虫子流 CH3C 搞笑解说	url	http://www.tudou.com/programs/view/yu0liCe9mXg/	
+type	BOOKMARK	name	命中率80%，磁盘I/O减半，Flashcache的发展史-CSDN.NET	url	http://www.csdn.net/article/2013-10-31/2817357-facebook-flashcache-2010-2013	
+type	BOOKMARK	name	七个垂手可得的敏捷开发工具-CSDN.NET	url	http://www.csdn.net/article/2013-10-30/2817345-developer-picks-7-hot-tools-agile-development	
+type	BOOKMARK	name	宅男程序员福利：来自纽约的28位智慧与美貌并存的IT女神-CSDN.NET	url	http://www.csdn.net/article/2013-10-28/2817315-28-women-founders-investors-and-leaders-in-nyc-tech	
+type	BOOKMARK	name	足球人墙的那些事_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2680056327	
+type	BOOKMARK	name	国内最实用的十五个良心网站，你的收藏夹里有几个？_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2666399337?see_lz=1	
+type	BOOKMARK	name	首页-唱片殿堂-淘宝网	url	http://888-chang-pian-dian-tang.taobao.com/?spm=a1z10.3.w1002-2310106572.1.4m6DUX	
+type	BOOKMARK	name	【技术绝对】各豪门吧眼中的吧友_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2685242128	
+type	BOOKMARK	name	武立金：告诉你一个真实的毛岸英_共识网	url	http://www.21ccom.net/articles/rwcq/article_2011090144468.html	
+type	BOOKMARK	name	武立金：告诉你一个真实的毛岸英_共识网	url	http://www.21ccom.net/articles/rwcq/article_2011090144468.html#commettop	
+type	BOOKMARK	name	铂程斋--【喷嚏图卦20131103】温和地延迟退休	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=83865	
+type	BOOKMARK	name	铂程斋--视频：分分钟涨姿势 我们身体的奥秘	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=83864	
+type	BOOKMARK	name	那些年，我们疯找的图片，这里应有尽有。 zhuan_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2685606720	
+type	BOOKMARK	name	正则化、归一化含义解析	url	http://sobuhu.com/ml/2012/12/29/normalization-regularization.html	
+type	BOOKMARK	name	统计学习方法 (豆瓣)	url	http://book.douban.com/subject/10590856/	
+type	BOOKMARK	name	L1 norm与L2 norm_迦南_新浪博客	url	http://blog.sina.com.cn/s/blog_71dad3ef010146c3.html	
+type	BOOKMARK	name	拜仁球迷必看 拜仁慕尼黑三冠王纪录片 足球回家（德语中字）—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjA5Mzg1Nzgw.html	
+type	BOOKMARK	name	温布利-足球回家之路 I主题曲 [爱如我的反叛]_拜仁慕尼黒吧_百度贴吧	url	http://tieba.baidu.com/p/2573786926	
+type	BOOKMARK	name	【小盐巴】15571 拜仁慕尼黑官方正品 13/14守门员棒球帽-淘宝网	url	http://item.taobao.com/item.htm?spm=a1z10.5.w4002-206988568.64.wpdHQW&id=25016156079	
+type	BOOKMARK	name	搜索含有\"Liebe ist meine Rebellion\"的音乐_百度音乐-听到极致	url	http://music.baidu.com/search?fr=ps&key=Liebe%20ist%20meine%20Rebellion&ie=utf-8	
+type	BOOKMARK	name	Liebe Ist Meine Rebellion-Frida Gold专辑_百度音乐-听到极致	url	http://music.baidu.com/album/92949832	
+type	BOOKMARK	name	张悬曼城live	url	http://www.douban.com/note/314298921/?start=5300#comments	
+type	BOOKMARK	name	张悬，你依旧是玫瑰色的你	url	http://www.douban.com/group/topic/45598857/	
+type	BOOKMARK	name	穿Dior的乞丐	url	http://www.douban.com/people/52505628/	
+type	BOOKMARK	name	上滑喜欢、下滑隐藏，Tapsbook想以简洁的交互帮助用户制作电子版+实体版相册 | 36氪	url	http://www.36kr.com/p/207492.html	
+type	BOOKMARK	name	如何成为杰出的风险投资家 | 36氪	url	http://www.36kr.com/p/207507.html	
+type	BOOKMARK	name	【MR JAMIE專欄】最失敗的好產品 ─ Everpix 倒閉的啟發 | WIRED.tw	url	http://wired.tw/2013/11/07/%E3%80%90mr-jamie%E5%B0%88%E6%AC%84%E3%80%91%E6%9C%80%E5%A4%B1%E6%95%97%E7%9A%84%E5%A5%BD%E7%94%A2%E5%93%81-%E2%94%80-everpix-%E5%80%92%E9%96%89%E7%9A%84%E5%95%9F%E7%99%BC/index.html	
+type	BOOKMARK	name	WIRED.tw	url	http://wired.tw/	
+type	BOOKMARK	name	当个皇马球迷真心累_皇家马德里吧_百度贴吧	url	http://tieba.baidu.com/p/2691160211	
+type	BOOKMARK	name	最难忘的Bug调试经历-CSDN.NET	url	http://www.csdn.net/article/2013-11-05/2817394-What's-the-hardest-bug-you've-debugged?	
+type	BOOKMARK	name	铂程斋--视频：英语口音纠正课程（中字）	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=84002	
+type	BOOKMARK	name	谁说WP仍然不行？意大利WP份额已超iOS-CSDN.NET	url	http://www.csdn.net/article/2013-11-05/2817390-windows-phone-overtakes-ios-in-italy	
+type	BOOKMARK	name	谁才是真正的资深开发者？-CSDN.NET	url	http://www.csdn.net/article/2013-11-04/2817386-who-senior-developer	
+type	BOOKMARK	name	8个web开发人员和设计师必备的秘籍表 极客标签 - 做最棒的极客知识分享平台	url	http://www.gbtags.com/gb/share/2327.htm	
+type	BOOKMARK	name	顶级程序员的10条最佳实践 | 36氪	url	http://www.36kr.com/p/207585.html	
+type	BOOKMARK	name	C++ TR1正则库使用示例 - Que's C++ Studio - 博客频道 - CSDN.NET	url	http://blog.csdn.net/querw/article/details/6684428	
+type	BOOKMARK	name	汪峰演唱会上表白章子怡:愿与你相扶到老_娱乐跟贴2_网易跟贴	url	http://comment.ent.163.com/ent2_bbs/9D99KPFU00034JAU.html	
+type	BOOKMARK	name	一周极客热文：阿里“双11”背后的技术 - 极客头条 - CSDN.NET	url	http://geek.csdn.net/news/detail/3382	
+type	BOOKMARK	name	“微软创投加速器”第四期报名中，联合36氪共同征集优秀创业项目 | 36氪	url	http://www.36kr.com/p/207344.html	
+type	BOOKMARK	name	“双十一”淘宝总交易额达350.19亿，其中53.5亿来自手机淘宝 | 36氪	url	http://www.36kr.com/p/207621.html	
+type	BOOKMARK	name	解决VC不包含stdint.h头文件问题 - rodmanwu - 博客频道 - CSDN.NET	url	http://blog.csdn.net/rodmanwu/article/details/6846788	
+type	BOOKMARK	name	C++ TR1 和 C++0x - 编码无悔 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/learnhard/article/details/5754881	
+type	BOOKMARK	name	Cygwin中文站点	url	http://www.cygwin.cn/	
+type	BOOKMARK	name	c++ - What's the best way to trim std::string - Stack Overflow	url	http://stackoverflow.com/questions/216823/whats-the-best-way-to-trim-stdstring	
+type	BOOKMARK	name	关于58、姚劲波和未来——36氪和58同城CEO姚劲波及投资人羊东的闲聊 | 36氪	url	http://www.36kr.com/p/207678.html	
+type	BOOKMARK	name	天使爱美丽_百度百科	url	http://baike.baidu.com/link?url=mI751Ef9R_GBV1qaIhyPqTUzAl7y9a5BC4Cux2brXZn-bhma_xo-gjej6BhEr8uX	
+type	BOOKMARK	name	极权主义读书狂想录 (评论: 极权主义的起源)	url	http://book.douban.com/review/1619990/	
+type	BOOKMARK	name	不运动，就完蛋 (评论: 极权主义的起源)	url	http://book.douban.com/review/2192584/	
+type	BOOKMARK	name	gacv - 用 gabor 和 AdaBoost (MultiBoost ) 和图像梯度信息局部边沿方向做目标检测图像识别 - Google Project Hosting	url	https://code.google.com/p/gacv/	
+type	BOOKMARK	name	[原创]std::find，std::find_if对类进行查找 » 编码无悔 / Intent & Focused	url	http://www.codelast.com/?p=207	
+type	BOOKMARK	name	创业团队招募_云加速器	url	http://www.yunjiasuqi.cn/zh-cn/recruitment/content	
+type	BOOKMARK	name	ROC curves	url	http://www.medcalc.org/manual/roc-curves.php	
+type	BOOKMARK	name	esuli.it | Andrea Esuli's website	url	http://www.esuli.it/	
+type	BOOKMARK	name	icsiboost - Open-source implementation of Boostexter (Adaboost based classifier) - Google Project Hosting	url	https://code.google.com/p/icsiboost/	
+type	BOOKMARK	name	1.9. Ensemble methods — scikit-learn 0.15-git documentation	url	http://scikit-learn.org/dev/modules/ensemble.html#adaboost	
+type	BOOKMARK	name	Download | Into	url	http://intopii.com/into/download	
+type	BOOKMARK	name	Into | Into	url	http://intopii.com/into/	
+type	BOOKMARK	name	创业半年的思考，如何做出一个成功的游戏 - langresser的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/langresser_king/article/details/16359107	
+type	BOOKMARK	name	十种更好的表达“你的代码写的很烂”的方法 | 外刊IT评论网	url	http://www.aqee.net/10-nice-ways-to-say-your-code-sucks/	
+type	BOOKMARK	name	Alexander Kerensky - Wikipedia, the free encyclopedia	url	http://en.wikipedia.org/wiki/Kerensky	
+type	BOOKMARK	name	半穷屌的WIN8平板ACER P3(2)_宏碁论坛_太平洋电脑网产品论坛	url	http://itbbs.pconline.com.cn/16510583_2.html	
+type	BOOKMARK	name	Win8非内置系统管理员获得完整权限的方法 - 快乐无极的博客	url	http://it.oyksoft.com/post/6176/	
+type	BOOKMARK	name	哥斯达黎加与人共舞鳄鱼去世 在线观看 - 酷6视频	url	http://v.ku6.com/show/mG_JHV4OuiNw4Eg3.html	
+type	BOOKMARK	name	科学松鼠会 » 盘点欧洲杯：给16强排座次	url	http://songshuhui.net/archives/69758	
+type	BOOKMARK	name	径向基核函数 (Radial Basis Function)–RBF | 丕子	url	http://www.zhizhihu.com/html/y2010/2103.html	
+type	BOOKMARK	name	河北唐山货车侧翻35吨鲜桔遭哄抢_图集跟贴_网易跟贴	url	http://comment.news.163.com/photoview_bbs/PHOT17I3000100AP.html	
+type	BOOKMARK	name	吴虹飞与幸福大街12月14@MAOlive一个婚礼和一個葬礼_视频在线观看 - 56.com	url	http://www.56.com/u80/v_Mzk5MDYwNDU.html	
+type	BOOKMARK	name	郭德纲 于谦 最新爆笑相声 2013经典‘—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjQxNzMwNjk2.html	
+type	BOOKMARK	name	苏联农业集体化_百度百科	url	http://baike.baidu.com/link?url=gkTUm7eI4j7CwLN2Run7B0lpmPunMWPg3IagsTgcj7NcLndVulQGtq6xT155wWHX	
+type	BOOKMARK	name	【华夏良子团购】(5折)-大众点评网团购北京站	url	http://t.dianping.com/deal/5094050	
+type	BOOKMARK	name	【良子足道】2店通用，良子足浴保健套餐2选1 | 美团网北京站	url	http://bj.meituan.com/deal/821655.html?source=hao123&utm_campaign=tuan.baidu.com&utm_medium=nav&utm_source=tuan.baidu.com&utm_content=pic&_rdt=1&urpid=baidutuan_tg%7C_%7C2dd57a938314b8b393fc5ab3580daf5d&utm_term=baidutuan_tg%5E%5E_%5E%5E2dd57a938314b8b393fc5ab3580daf5d	
+type	BOOKMARK	name	【4.9折】北京[华夏良子]双井店足部养生套餐！免费提供茶水+客餐+果盘，告别亚健康！岁月流金，健康无限团购_百度足疗按摩团购大全_百度团购北京站	url	http://tuan.baidu.com/selftg/item/detail/2/20567113	
+type	BOOKMARK	name	谁知道有没有支持vs2012的Visual Assist X？？？？ - CSDN论坛 - CSDN.NET	url	http://bbs.csdn.net/topics/390230373	
+type	BOOKMARK	name	【卖萌的周末】小猪，曼珠，蒂亚戈等组团来卖萌啦~你买吗？_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2747531557	
+type	BOOKMARK	name	【斜眼笑】用图片告诉你香川真司为什么在曼联和大阪穿26号球衣_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2745905817	
+type	BOOKMARK	name	目前效力于五大联赛的亚洲球员身价排行榜TOP11_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2747809029	
+type	BOOKMARK	name	知识普及 各大解说最喜爱的俱乐部和国家队_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2747805434?see_lz=1	
+type	BOOKMARK	name	转 Deep Learning in NLP （一）词向量和语言模型 - huashiyiqike - 博客园	url	http://www.cnblogs.com/huashiyiqike/p/3253264.html	
+type	BOOKMARK	name	一百年前的医患关系_柴静_新浪博客	url	http://blog.sina.com.cn/s/blog_48b0d37b0102f50y.html?tj=1	
+type	BOOKMARK	name	初学编程者必知的五个网站-CSDN.NET	url	http://www.csdn.net/article/2013-12-10/2817760-5-learntocode-sites	
+type	BOOKMARK	name	AnotherTutorial - wxPyWiki	url	http://wiki.wxpython.org/AnotherTutorial	
+type	BOOKMARK	name	关于鲁迅先生和梁实秋先生的笔战_百度知道	url	http://zhidao.baidu.com/question/47160296.html	
+type	BOOKMARK	name	某球迷看欧冠回去晚了，看见老婆………_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2753884848	
+type	BOOKMARK	name	今天凌晨欧冠的前戏——新慕尼黑协议_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2753805377	
+type	BOOKMARK	name	金庸小说中人物名字的由来_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2753640552	
+type	BOOKMARK	name	战绩不佳连累家人，沙尔克主帅儿子被同学打_切尔西吧_百度贴吧	url	http://tieba.baidu.com/p/2753927534	
+type	BOOKMARK	name	京东宙斯杯创新应用大赛	url	http://jcloud.csdn.net/612	
+type	BOOKMARK	name	注册	url	http://zc.qq.com/chs/agreement1_chs.html	
+type	BOOKMARK	name	高通开发者专区	url	http://qualcomm.csdn.net/489	
+type	BOOKMARK	name	List Of SQLite Functions	url	http://www.sqlite.org/c3ref/funclist.html	
+type	BOOKMARK	name	Sqlite c/c++ api 学习 - 成长的点滴，记录与分享 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/jgood/article/details/4640577	
+type	BOOKMARK	name	铂程斋--湖南小村庄老人接连自杀 当地人：不受折磨不拖累子女	url	http://dapenti.com/blog/more.asp?name=xilei&id=85121	
+type	BOOKMARK	name	铂程斋--【喷嚏图卦20131214】我们注意到有关报道。这是朝鲜内部事务	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=85125	
+type	BOOKMARK	name	百度云 网盘-1242092878的分享	url	http://pan.baidu.com/share/home?uk=789556884#category/type=0	
+type	BOOKMARK	name	百度云 网盘-画の绿叶的分享	url	http://pan.baidu.com/share/home?uk=2114841089&view=share#category/type=0	
+type	BOOKMARK	name	Taylor Swift BBC现场翻唱酷玩乐队经典Viva la Vida 在线观看 - 酷6视频	url	http://v.ku6.com/show/YdLD3OyQ7pPGLwPQ1zWDUg...html	
+type	BOOKMARK	name	Viva La Vida Lady GaGa Music Video_DW3p4c_新浪播客	url	http://video.sina.com.cn/v/b/97008784-2486471971.html	
+type	BOOKMARK	name	而我们只能记取你的音乐和芳香	url	http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MzkxNjcyMA==&appmsgid=10012207&itemidx=1&sign=4aa296a058f194fbec891007e269ff7b&uin=NDAyNzAyMDk1&key=234b3ec6051a4a547ad4bcd31ddfb766f0c8f71fe4c149b06e69ce51a86f66bd736d2fd7d6d1a08b3d4f1d3b09f87efb&devicetype=iPhone+OS7.0.4&version=15000311&lang=en	
+type	BOOKMARK	name	【Lady Gaga】 - Viva La Vida—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XODY4ODI5ODg=.html	
+type	BOOKMARK	name	第51届格莱美颁奖礼——coldplay现场版lost和viva la vida—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMTI2Mzg3Nzcy.html	
+type	BOOKMARK	name	【那些英伦范儿的桀骜】最爱ColdPlay的几首歌_coldplay吧_百度贴吧	url	http://tieba.baidu.com/p/2737995580	
+type	BOOKMARK	name	生命的重量·2013梦想季(九)—在线播放—《季录》—资讯—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjQ4Nzk5MTA0_ev_1.html	
+type	BOOKMARK	name	1.Youtube-David Garrett - Viva La Vida—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNTUyMDEyNjk2.html	
+type	BOOKMARK	name	面包旅行 - 记录探索世界的轨迹	url	http://breadtrip.com/	
+type	BOOKMARK	name	一名开发者的年度回顾-CSDN.NET	url	http://www.csdn.net/article/2013-12-18/2817844-a-developers-year-in-review	
+type	BOOKMARK	name	什么时候舌婊火了_wp7吧_百度贴吧	url	http://tieba.baidu.com/p/2606563946	
+type	BOOKMARK	name	原来你们说的舌婊是Miley Cyrus！！！_wp7吧_百度贴吧	url	http://tieba.baidu.com/p/2608559323	
+type	BOOKMARK	name	【舌表】谁才是真正的舌婊？？？_美剧吧_百度贴吧	url	http://tieba.baidu.com/p/2611436657	
+type	BOOKMARK	name	fraternity_百度搜索	url	http://www.baidu.com/s?wd=fraternity+&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_n=2&rsv_sug3=1&rsv_sug=0&rsv_sug1=1&rsv_sug4=31&inputT=1685	
+type	BOOKMARK	name	老湿解说2012欧洲杯十佳球，高级黑。。。。_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2772283094	
+type	BOOKMARK	name	盗梦空间？创业该如何将品牌价值植入到用户脑中 | 36氪	url	http://www.36kr.com/p/208615.html	
+type	BOOKMARK	name	名不副实的经典 (评论: History of Western Philosophy)	url	http://book.douban.com/review/5762678/	
+type	BOOKMARK	name	君子有三畏_百度百科	url	http://baike.baidu.com/link?url=F4mPacYRFC35Iewly1a-sb1WSf28owpiH1DYDNclOwl4gKUAqdw5k5vhzoGoQl_LDqjAky-yhDxvWJ525VpAtq	
+type	BOOKMARK	name	Windows Azure 免费试用：试用 Windows Azure | Azure 免费试用	url	https://windowsazure.cn/zh-cn/pricing/free-trial/	
+type	BOOKMARK	name	文革广州“吊尸”谜团难解 40年来未有当事人披露|文革|劳改犯_凤凰文化	url	http://culture.ifeng.com/8/detail_2013_12/23/32381415_0.shtml	
+type	BOOKMARK	name	皇马要变天?疑接受政府援助 负债5亿或卖C罗贝尔_网易体育	url	http://sports.163.com/13/1223/22/9GQGNP5500051C8V.html#p=7RT7L13I00DE0005	
+type	BOOKMARK	name	胡适书法及其当代性价值_资讯中心_博宝艺术网	url	http://news.artxun.com/shufa-480-2395180.shtml	
+type	BOOKMARK	name	身行万里半天下 眼高四海空无人——文化视野下的胡适_挹江堂_新浪博客	url	http://blog.sina.com.cn/s/blog_4e3780120100ln3z.html	
+type	BOOKMARK	name	胡適書法欣賞 - 纽约文摘的日志 - 网易博客	url	http://kexu.nyc.usa.blog.163.com/blog/static/665569122011102185129380/	
+type	BOOKMARK	name	Python 的列表排序 - Horin与程序 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/horin153/article/details/7076321	
+type	BOOKMARK	name	python sorted - 走到天亮 - 博客园	url	http://www.cnblogs.com/65702708/archive/2010/09/14/1826362.html	
+type	BOOKMARK	name	戴克里先_百度百科	url	http://baike.baidu.com/link?url=KYiG7JZCChT3r4fnSUaS61QNv2Mev9ehgRaWtoFsPIqRF2QMtFAN8pZyHlfbk029	
+type	BOOKMARK	name	罗马的奴隶跟中世纪的农奴有什么分别？_中世纪吧_百度贴吧	url	http://tieba.baidu.com/p/834487590	
+type	BOOKMARK	name	为什么西欧建立了封建农奴制以后，东罗马帝国仍然是奴隶制国家？_百度知道	url	http://zhidao.baidu.com/link?url=gyvLkOBRoMovFffwrWjQ48t9nD5SJig7lcE7jHCUZC00_OrEpmQ4CRxIg9_Vad1FzoaHURBqyoNpm9C8AuMLHK	
+type	BOOKMARK	name	奴隶、隶农、农奴三者的区别_百度知道	url	http://zhidao.baidu.com/link?url=V6ZgAyul9uhfM2BXGNf5_iCHZe7iLZoaW54sny15tCBIlgQughfLv4po_DUQCxUnoeElO0LXYflEb6uaDF_r7a	
+type	BOOKMARK	name	Colonus (person) - Wikipedia, the free encyclopedia	url	http://en.wikipedia.org/wiki/Colonus_(person)	
+type	BOOKMARK	name	C罗:并不会记恨穆里尼奥 我每年都配得上拿金球_体育跟贴2版_网易跟贴	url	http://comment.sports.163.com/sports2_bbs/9H6M7S2P00051C8V.html	
+type	BOOKMARK	name	【个人原创】历史没有如果，是非功过论里皮_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2784540167?see_lz=1	
+type	BOOKMARK	name	荷兰20年20大球星:博格坎普范尼罗本领衔_网易体育	url	http://sports.163.com/photoview/00BU0005/107584.html#p=9H9AQ95T00BU0005	
+type	BOOKMARK	name	Tombula正规5号比赛足球 曼联巴塞拜仁训练机缝足球TPU足球 11人标准俱乐 拜仁慕尼黑 5号【图片 价格 品牌 报价】-京东商城	url	http://item.jd.com/1059993281.html#comments-list	
+type	BOOKMARK	name	将高中数学知识编织成知识图谱，“提分网”想用graph model判断学生哪个知识点有缺漏，再练熟该知识点的变型 | 36氪	url	http://www.36kr.com/p/208759.html	
+type	BOOKMARK	name	11佳丽竞逐粉球奖 因扎吉旧爱斗艳范法前妻_网易体育	url	http://sports.163.com/photoview/00DE0005/108510.html?f=ArticlePview#p=9HDP4TSN00DE0005	
+type	BOOKMARK	name	央视火了。。。_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2788625060	
+type	BOOKMARK	name	看GIF猜球员，考验你的眼神和足球知识_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2787784866	
+type	BOOKMARK	name	【长期熬夜易患癌】以后比赛就挑着看吧_切尔西吧_百度贴吧	url	http://tieba.baidu.com/p/2787832064	
+type	BOOKMARK	name	传说中来自多特蒙德格胖子的图楼终于建立了！！！_格策吧_百度贴吧	url	http://tieba.baidu.com/p/2449261218	
+type	BOOKMARK	name	【图控】扒来的各色没节操小新_诺伊尔吧_百度贴吧	url	http://tieba.baidu.com/p/2766906002	
+type	BOOKMARK	name	新年寄望：从小做起，活在当下 | 36氪	url	http://www.36kr.com/p/208811.html	
+type	BOOKMARK	name	娜娜青训果然厉害，这次竞选小吧，有个十五岁的菇凉有望当选_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2794253589	
+type	BOOKMARK	name	季羡林先生的清华园日记片段_曼城吧_百度贴吧	url	http://tieba.baidu.com/p/2794467578	
+type	BOOKMARK	name	大多数人不行动 | 外刊IT评论网	url	http://www.aqee.net/most-people-wont/	
+type	BOOKMARK	name	Index of /var/albums/Arjen-Robben-Wallpaper-Gallery	url	http://www.soccerwallpaper.mackafe.com/var/albums/Arjen-Robben-Wallpaper-Gallery/	
+type	BOOKMARK	name	欧冠主题曲（完整版） 在线观看 - 酷6视频	url	http://v.ku6.com/show/Is8J5m02pSJdoXd2PKD2sA...html	
+type	BOOKMARK	name	Linux下gcc与g++用法以及编写makefile - 活不明白的博客--技术用时方觉少 - 51CTO技术博客	url	http://huobumingbai.blog.51cto.com/1196746/308526	
+type	BOOKMARK	name	Erik Prince - Wikipedia, the free encyclopedia	url	http://en.wikipedia.org/wiki/Erik_Prince	
+type	BOOKMARK	name	为什么现在国内有那么多人提倡和鼓励移民？ - 知乎	url	http://www.zhihu.com/question/19587555	
+type	BOOKMARK	name	一块红布_百度百科	url	http://baike.baidu.com/link?url=qRINL04Gi6V1vpYBZ57ghCHf4SNWlrgc4pNW3Qs3XKz82BoZjbz09evQnxDxSPbliko_ZLgK_YZfMtW0KVq2mq	
+type	BOOKMARK	name	Office软件相关(点开后下载需要的版本)_免费高速下载|百度云 网盘-分享无限制	url	http://pan.baidu.com/share/link?shareid=545043&uk=3509330452#dir/path=%2FOffice%E8%BD%AF%E4%BB%B6%E7%9B%B8%E5%85%B3(%E7%82%B9%E5%BC%80%E5%90%8E%E4%B8%8B%E8%BD%BD%E9%9C%80%E8%A6%81%E7%9A%84%E7%89%88%E6%9C%AC)%2FOffice%202010	
+type	BOOKMARK	name	我与GitHub的第一次——自制音乐文件修改器 - 强子的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/yisuowushinian/article/details/18897519	
+type	BOOKMARK	name	Error: Permission denied (publickey) · GitHub Help	url	https://help.github.com/articles/error-permission-denied-publickey	
+type	BOOKMARK	name	曼城VS巴萨身价PK:10亿欧对决_网易体育	url	http://sports.163.com/photoview/00D80005/110644.html#p=9LAL0TLN00D80005	
+type	BOOKMARK	name	15个最好的Bootstrap设计工具推荐-CSDN.NET	url	http://www.csdn.net/article/2014-02-18/2818443-15-best-bootstrap-tools-for-designers	
+type	BOOKMARK	name	古龙 父亲 心结_金庸吧_百度贴吧	url	http://tieba.baidu.com/p/1872525090	
+type	BOOKMARK	name	[转帖]高玉樹回憶錄中的熊鵬聲 - 藏 菁 阁 - 古龙武侠论坛 - Powered by Discuz!	url	http://bbs.gulongbbs.com/forum.php?mod=viewthread&tid=7106	
+type	BOOKMARK	name	高玉树_百度百科	url	http://baike.baidu.com/link?url=lfC0K_J8EeRVjSmWZmW4-QgMW2eYB-VLicAZgOkcBM1lQCryrt1t8m1vUoNQdIci	
+type	BOOKMARK	name	黄信介_百度百科	url	http://baike.baidu.com/link?url=Yn6BRJHAkMgZ5QEDMauDTo3iT96FJHkrj-dTbv3k8SfM2UjEQlQRASJAhDf0gXFK	
+type	BOOKMARK	name	台湾省戒严令 - 维基百科，自由的百科全书	url	http://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4	
+type	BOOKMARK	name	Basic Git Tutorial	url	http://dylandy.github.io/Easy-Git-Tutorial/index.html	
+type	BOOKMARK	name	乐活--罗素怎么看待卖淫问题	url	http://www.dapenti.com/blog/more.asp?name=agile&id=87168	
+type	BOOKMARK	name	习近平会见连战时讲话全文公布_网易新闻中心	url	http://news.163.com/14/0219/01/9LDKV42100014JB5.html	
+type	BOOKMARK	name	别的吧看不到，美伊战争实战记录_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2871252725	
+type	BOOKMARK	name	普及知识：德米定律_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2875704993	
+type	BOOKMARK	name	温格:瓜式巴萨是我今生遇到最强队 力争零封拜仁_体育跟贴2版_网易跟贴	url	http://comment.sports.163.com/sports2_bbs/9LEBTJGG00051C9E.html	
+type	BOOKMARK	name	【战前贴】阿森纳拜仁预测首发各位置球员身价相貌PK_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2875107015?see_lz=1	
+type	BOOKMARK	name	吐槽索契冬奥会 - 囧司徒每日秀 - Talk Show	url	http://www.talkshowcn.com/show/20140210_2	
+type	BOOKMARK	name	“玉兔号”是怎样被设计出来-新闻频道-和讯网	url	http://news.hexun.com/2013-12-16/160613395.html	
+type	BOOKMARK	name	叙利亚上facebook被处死的妹子_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2876270061	
+type	BOOKMARK	name	【转】年度巨献：现役足坛天罡36将_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2876257719?see_lz=1&pn=2	
+type	BOOKMARK	name	周四凌晨的欧冠，你们支持娜娜不？？？？_利物浦吧_百度贴吧	url	http://tieba.baidu.com/p/2874883972	
+type	BOOKMARK	name	【图贴】各大球星在足球场上最尴尬、搞笑的一幕。_欧洲冠军杯吧_百度贴吧	url	http://tieba.baidu.com/p/2740278808	
+type	BOOKMARK	name	偷球狂魔埃托奥考验门将的智商_德国队吧_百度贴吧	url	http://tieba.baidu.com/p/2692610606	
+type	BOOKMARK	name	Badoo_百度百科	url	http://baike.baidu.com/link?url=ayz0XHxp1XBXmRt1tT4P30p3r6sAMb6RPG0tD3yPvyuZhihTFi87lbjX1JjpbEKCu7cUUIB_gnBCLUq0RrROVq	
+type	BOOKMARK	name	风暴英雄Alpha测试版放出！_尤文图斯吧_百度贴吧	url	http://tieba.baidu.com/p/2871832394	
+type	BOOKMARK	name	风暴英雄地图及英雄切换工具 - 银河引擎∞ - 《星际争霸II》+《英雄风暴》编辑器综合区 - Goblin Academy - Powered by Discuz!	url	http://bbs.islga.org/forum.php?mod=viewthread&tid=2159585&extra=page%3D1&page=1	
+type	BOOKMARK	name	Cloud Tea Studio	url	http://www.cloudteastudio.com/	
+type	BOOKMARK	name	拜仁VS阿森纳第一回合复盘：浅析瓜迪奥拉与温格的斗法及球员评价_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2877684744	
+type	BOOKMARK	name	【Dark Of Night】_Little Birdy-Dark Of Night在线试听_歌词下载-酷我音乐	url	http://www.kuwo.cn/yinyue/499903/	
+type	BOOKMARK	name	创业三个月总结---记录这三个月的酸甜苦辣咸！！！ - Android_Tutor的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/android_tutor/article/details/19326717	
+type	BOOKMARK	name	彭丽媛在维也纳歌剧院高唱《木兰诗篇》[组图]_资讯_凤凰网	url	http://news.ifeng.com/photo/news/200809/0901_1397_756658.shtml	
+type	BOOKMARK	name	北京欢迎你-北京地区2009年火车出行及购票、交通指南（4月1日更新为4月版） - 华北中原车迷论坛区 - 海子铁路网 -	url	http://bbs.hasea.com/thread-296124-1-1.html	
+type	BOOKMARK	name	余生的第一天 (豆瓣)	url	http://movie.douban.com/subject/3181788/	
+type	BOOKMARK	name	海峡两岸经济合作框架协议_百度百科	url	http://baike.baidu.com/link?url=kCLH7RXYVSHIESEzmw1LTDTeOfLgD2lV5TMqQ9ayJyk1ZmMFdaxFgt5FB_iX91ge00MOjjNhIlvfxISsjsSgoa	
+type	BOOKMARK	name	張鐵志 : 无壳蜗牛与台湾民主 - 一五一十部落 | My1510	url	http://www.my1510.cn/article.php?id=7f4a297d984ef174	
+type	BOOKMARK	name	【新浪】各星座最强11巨星阵容，天蝎座无敌锋线_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2886362087	
+type	BOOKMARK	name	克里斯蒂安·维埃里_百度百科	url	http://baike.baidu.com/link?url=IXA5Ahk-sGjX7LgBLDXKhvgaOaeeN_9I8hFK6G3_bvIMYiZBmExmNN8nglXLIYFpO3a6t1cG0dYeKwupXNHQLWY5HYW7KWqVqpgJ4pUDZQg6-L7NJOriMnOMfjj-jqy6ZPZqGO7HuR99avvSXYd84fdEVsCzFArrlPV8GN_bTUC	
+type	BOOKMARK	name	温仪_百度百科	url	http://baike.baidu.com/link?url=ALggP9TqSVLsBIQz2NqY1QDKbCdAULdl31E30y_mgpxBeTqNLihXQNL6WxFB7MsX	
+type	BOOKMARK	name	怒燕狂飞（燕啼红武曲）伴奏(歌词MP3下载) - 霹雳布袋戏 - 5SING中国原创音乐基地	url	http://bz.5sing.com/531673.html	
+type	BOOKMARK	name	奈落之夜-宵伴奏(歌词MP3下载) - 霹雳布袋戏 - 5SING中国原创音乐基地	url	http://bz.5sing.com/531654.html###	
+type	BOOKMARK	name	多贝公开课	url	http://www.duobei.com/	
+type	BOOKMARK	name	prezi_百度百科	url	http://baike.baidu.com/link?url=ZQzqeOXNQBGzMdGgJZuc65Itfqi737jPzh7ZifWvoKt27k18HtmJU4OKGmT9UqgslCM4-wefLlUbqLWSmR5kKK	
+type	BOOKMARK	name	【网易图集】足坛神级“影帝”精彩演出gif C罗榜上有名_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2899950414	
+type	BOOKMARK	name	【视点】有没有哪两张图的对比让你很有感触？_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2906230298	
+type	BOOKMARK	name	看了不下3遍的前任攻略 感触颇深_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2905841564	
+type	BOOKMARK	name	讲讲大学时候约过的三个比较有特点的女人_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2906109558	
+type	BOOKMARK	name	胡适的高贵与郭沫若的猥琐(图) 【猫眼看人】-凯迪社区	url	http://club.kdnet.net/dispbbs.asp?boardid=1&id=9517247	
+type	BOOKMARK	name	考试院_百度百科	url	http://baike.baidu.com/link?url=6qo48qEi5nNpxhjD2yXfK5hlWpUEEf7aqN0tmBvafFccv1hS5ohTrRce4kWFfgJH	
+type	BOOKMARK	name	DOTA2 刀塔	url	http://www.taobao.com/market/game/dota2-2014.php	
+type	BOOKMARK	name	Helmut Grabner	url	http://www.vision.ee.ethz.ch/~hegrabne/	
+type	BOOKMARK	name	还是东莞好，在家干活真累_巴塞罗那吧_百度贴吧	url	http://tieba.baidu.com/p/2915416944	
+type	BOOKMARK	name	github简单使用教程 - Wuyuan's Blog - Just for sharing	url	http://wuyuans.com/2012/05/github-simple-tutorial/	
+type	BOOKMARK	name	《The U.S. Constitution and Fascinating Facts about It》 Terry L. Jordan【摘要 书评 试读】图书	url	http://www.amazon.cn/The-U-S-Constitution-and-Fascinating-Facts-about-It-Jordan-Terry-L/dp/1891743155/ref=sr_1_11?ie=UTF8&qid=1394123882&sr=8-11&keywords=the+us+constitution	
+type	BOOKMARK	name	微软前CEO鲍尔默谈成功：属于你的时代，不会这么快就来 | 36氪	url	http://www.36kr.com/p/210171.html	
+type	BOOKMARK	name	推荐文章 | 酷 壳 - CoolShell.cn	url	http://coolshell.cn/featured_posts	
+type	BOOKMARK	name	粗话也登大雅之堂 090216—在线播放—《李敖语妙天下 2009》—教育—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMTY2MzY4NDg0.html	
+type	BOOKMARK	name	独处之道 090304—在线播放—《李敖语妙天下 2009》—教育—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMTY2MzY5MTM2.html	
+type	BOOKMARK	name	中国移动随E行宽带业务	url	http://211.136.25.211/index.php?wlanuserip=10.46.16.158&wlanacname=1315.0010.100.00&ssid=CMCC-edu&NASID=8045133010000460	
+type	BOOKMARK	name	老张福利第二季：最简单的一键GOAGENT翻墙，从此翻墙无忧。_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2911491593	
+type	BOOKMARK	name	one-class classification_落落_新浪博客	url	http://blog.sina.com.cn/s/blog_69d515b1010172ht.html	
+type	BOOKMARK	name	Downloads - msysgit - Git for Windows - Google Project Hosting	url	https://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git	
+type	BOOKMARK	name	巴勃罗·聂鲁达_百度百科	url	http://baike.baidu.com/link?url=a8uWcHYDprHLr7OllgiRmFatn6yl-9Jy42cBCuVBF3mUJ_SydMibomJcHfNzxO6emKvqUxQzOYokllB8tntIwq	
+type	BOOKMARK	name	August Diehl - Google 搜索	url	https://www.google.com.hk/search?q=August+Diehl&oq=August+Diehl&aqs=chrome..69i57&sourceid=chrome&espv=210&es_sm=122&ie=UTF-8	
+type	BOOKMARK	name	Behind Blue Eyes-音乐视频-搜狐视频	url	http://my.tv.sohu.com/us/49163103/17523471.shtml	
+type	BOOKMARK	name	2月70城房价仅温州同比下降 北上广深涨幅继续收窄-房产频道-和讯网	url	http://house.hexun.com/2014-03-18/163135081.html	
+type	BOOKMARK	name	日本の伝統色 和色大辞典 - Traditional Japanese Color Names	url	http://www.colordic.org/w	
+type	BOOKMARK	name	创业者见投资人之前应该准备些什么？ | 股权估值融资 | 创业知识汇 | 36氪+	url	http://o.36kr.net/know?tag=%E8%82%A1%E6%9D%83%E4%BC%B0%E5%80%BC%E8%9E%8D%E8%B5%84&id=90	
+type	BOOKMARK	name	Gmail改造收件箱，把邮件自动分类呈现 | 36氪	url	http://www.36kr.com/p/203673.html	
+type	BOOKMARK	name	移动应用的黄金四分类 | 36氪	url	http://www.36kr.com/p/111577.html	
+type	BOOKMARK	name	种子投资_百度百科	url	http://baike.baidu.com/link?url=7cgSTIWJ_au56OYJezGw09OAiSzfSuVPTl0Uw5nvPF2jXK0wtMOkeYqJmnqZNXqvzCEDCm-IXXaPq1qx2XYHiK	
+type	BOOKMARK	name	种子投资 - MBA智库百科	url	http://wiki.mbalib.com/wiki/%E7%A7%8D%E5%AD%90%E6%8A%95%E8%B5%84	
+type	BOOKMARK	name	天使湾对种子投资的估值都高达1000万，这个行业怎么了-看点-虎嗅网	url	http://www.huxiu.com/article/14783/1.html	
+type	BOOKMARK	name	【小盐巴】14461 拜仁慕尼黑官方正品 传统巴伐利亚衬衫-淘宝网	url	http://item.taobao.com/item.htm?spm=a1z10.3.w4002-206998620.25.ufdZPj&id=26986780265	
+type	BOOKMARK	name	【梅球王精彩过人gif图】人类已经不能阻止梅西 转_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2170444138	
+type	BOOKMARK	name	深度优先与广度优先算法zz_懿之的博客_百度空间	url	http://hi.baidu.com/imheaventian/item/3c6c9c0ef7440d6cd55a1112	
+type	BOOKMARK	name	【飞鸟】Les Miserables《Do You Hear the People Sing》—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNzg1NzgxNTY=.html	
+type	BOOKMARK	name	Do You Hear the People Sing 悲惨世界精华剪辑 法语版 双语字幕—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNTQyODI5NDY4.html	
+type	BOOKMARK	name	Do you hear the people sing十年版尾声大合唱—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNTMyMDU3NTcy.html	
+type	BOOKMARK	name	On My Own—萨曼莎·巴克斯—音乐—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNDkzMjEzNDMy.html	
+type	BOOKMARK	name	悲惨世界25周年 历届演员合唱one day more—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNDA3MDQyOTI4.html	
+type	BOOKMARK	name	New Venture Players	url	http://newventureplayers.co.uk/	
+type	BOOKMARK	name	【史海钩沉】历史上真实的希腊船王_海斗士吧_百度贴吧	url	http://tieba.baidu.com/p/1273102125	
+type	BOOKMARK	name	about:blank	url	about:blank	
+type	BOOKMARK	name	《把你的英语用起来》英语学习路线图	url	http://www.read.org.cn/html/2350-ba-ni-de-ying-yu-yong-qi-lai-ying-yu-xue-xi-lu-xian-tu.html	
+type	BOOKMARK	name	观看正片 - 追梦DOTA人 -《DOTA2》官方网站	url	http://www.dota2.com.cn/event/201403/dreamdota/ftp.htm	
+type	BOOKMARK	name	托雷斯为什么被称为人生赢家？_百度知道	url	http://zhidao.baidu.com/link?url=BAf5nBiQ5VdLqc02FKjP4zBY_9Fy1OfFSVaK6y_uPlo_KqPl_Z3VvbiSQ2VKuO6Hx1OsYxxzqbo_TaXpPCDCsK	
+type	BOOKMARK	name	Kickstarter	url	https://www.kickstarter.com/	
+type	BOOKMARK	name	國內創業公司為什麼不上Kickstarter? - 網絡與創業 - 香港矽谷	url	http://www.hksilicon.com/kb/articles/395096/Kickstarter	
+type	BOOKMARK	name	中国手机的 UI 设计水平如何？相比日本、欧洲又如何？ - 知乎	url	http://www.zhihu.com/question/22905224/answer/23137895?utm_source=weekly-digest&utm_medium=email&utm_campaign=weekly121	
+type	BOOKMARK	name	UI/UX projects on Behance	url	https://www.behance.net/search?field=132&country=CN&state=&city=	
+type	BOOKMARK	name	意见领袖 - 维基百科，自由的百科全书	url	http://zh.wikipedia.org/wiki/%E6%84%8F%E8%A6%8B%E9%A0%98%E8%A2%96	
+type	BOOKMARK	name	人事经理为什么不能接受一个真实的离职理由？ - 知乎	url	http://www.zhihu.com/question/23084189/answer/23553303?utm_source=weekly-digest&utm_medium=email&utm_campaign=weekly122	
+type	BOOKMARK	name	原来这首歌是为他创作的！_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2943354475	
+type	BOOKMARK	name	清晰版 破坏の夜 say anything—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMTg2NjM1MTU2.html	
+type	BOOKMARK	name	给技术人上的管理课：平衡和集中-CSDN.NET	url	http://www.csdn.net/article/2014-03-26/2818983-Management-Course	
+type	BOOKMARK	name	Seed money - Wikipedia, the free encyclopedia	url	http://en.wikipedia.org/wiki/Seed_money	
+type	BOOKMARK	name	Dragonland Rusty nail (cover X japan) Subtitulado—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNDQzMjcxODM2.html	
+type	BOOKMARK	name	克劳德·昂利·圣西门_百度百科	url	http://baike.baidu.com/link?url=pqLLDNFZ9HPusNeDQ1Z9lWtziFCSYlLeK4KOad53XK55fXKH233TO0CzVvzFMVeDx2sw6XECVgrY2z0g9jmQjIFeG9yL2rPHiWNXE-CxnnryV-wt5gkXviYVJkZKqH3mEndLJ7qpCJcpUwVbsNThvyU305455jlBPrgMIwk43H3	
+type	BOOKMARK	name	我和左派谈谈心 14—在线播放—《罗辑思维 2013》—资讯—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNTI2NzMzOTUy.html	
+type	BOOKMARK	name	Contributing To Open Source	url	http://blog.generalassemb.ly/beginners-guide-contributing-open-source/?utm_content=2014-03-25%20open-source-natasha&awesm=ga.co_p2L&utm_source=organic_post&utm_campaign=social_guest&utm_medium=ga_twitter	
+type	BOOKMARK	name	图解梅西C罗综合素质终极PK！_巴塞罗那吧_百度贴吧	url	http://tieba.baidu.com/p/2946639025?see_lz=1	
+type	BOOKMARK	name	【重磅】哪些东西不贵但有极大实用价值？_国际米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2934846836?see_lz=1	
+type	BOOKMARK	name	THE SAILOR PEN CO., LTD.	url	http://www.sailor.co.jp/EXPORT/professional_g/index.html	
+type	BOOKMARK	name	日本进口 百乐Pilot钢笔 万年笔 22K金尖 笔尖弹性好 练字好选择-淘宝网	url	http://item.taobao.com/item.htm?spm=a230r.1.14.36.BfcKud&id=14613101464	
+type	BOOKMARK	name	德国施德楼STAEDTLER彩色针管笔 彩色草图笔 334 0.3mm 经典20色-淘宝网	url	http://item.taobao.com/item.htm?spm=a1z10.5.w4002-2791982766.63.NinGjC&id=1268674085	
+type	BOOKMARK	name	什么是 “动态规划” ， 用两个经典问题举例。 - 易水寒 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/fox64194167/article/details/21001855	
+type	BOOKMARK	name	小而酷：看 37signals 如何招聘 UI 设计师 - 爱范儿 · Beats of Bits	url	http://www.ifanr.com/41827	
+type	BOOKMARK	name	华人创业团队Orbeus将推出iPhone版图片自动识别及整理应用ReKoMe | 36氪	url	http://www.36kr.com/p/210778.html	
+type	BOOKMARK	name	UC浏览器电脑版官方下载_PC浏览器下载_全球最快最好用的浏览器_UC浏览器PC版官网	url	http://pc.uc.cn/	
+type	BOOKMARK	name	世界上最火爆的国家德比即将开始..博卡VS河床_马德里竞技吧_百度贴吧	url	http://tieba.baidu.com/p/2953947798	
+type	BOOKMARK	name	【新闻】知情人：布特纳更衣柜藏铁棍，已打断莫耶斯狗腿。。_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2956642046	
+type	BOOKMARK	name	火速燃烧脂肪，7个动作快速塑造性感的腹肌、人鱼线。_尤文图斯吧_百度贴吧	url	http://tieba.baidu.com/p/2613371833	
+type	BOOKMARK	name	创业邦 - 全球视野的创业信息和专业服务平台	url	http://www.cyzone.cn/	
+type	BOOKMARK	name	早期创业公司人数控制在多少合适？ - 人事/文化 - 创业邦	url	http://www.cyzone.cn/a/20140402/255967.html	
+type	BOOKMARK	name	薛嫔 - 维基百科，自由的百科全书	url	http://zh.wikipedia.org/wiki/%E8%96%9B%E5%AC%AA	
+type	BOOKMARK	name	齐文宣帝 - 维基百科，自由的百科全书	url	http://zh.wikipedia.org/wiki/%E9%BD%90%E6%96%87%E5%AE%A3%E5%B8%9D	
+type	BOOKMARK	name	高欢 - 维基百科，自由的百科全书	url	http://zh.wikipedia.org/wiki/%E9%AB%98%E6%AD%A1	
+type	BOOKMARK	name	齐孝昭帝 - 维基百科，自由的百科全书	url	http://zh.wikipedia.org/wiki/%E9%AB%98%E6%BC%94	
+type	BOOKMARK	name	EMC Community Network - ECN: Linux经典书籍推荐阅读——丰富你的大脑与书架(未完待续)	url	https://community.emc.com/thread/190947	
+type	BOOKMARK	name	24年老牌干洗连锁“荣昌”进军干洗O2O，用99元按袋计费模式首先颠覆自己 | 36氪	url	http://www.36kr.com/p/210880.html	
+type	BOOKMARK	name	乔布斯10大精彩发布会集锦-视频在线观看-爱奇艺	url	http://www.iqiyi.com/w_19rrli5051.html	
+type	BOOKMARK	name	OpenSSL究竟为何物，为何它的影响力如此之大？-CSDN.NET	url	http://www.csdn.net/article/2014-04-09/2819205-OpenSSL	
+type	BOOKMARK	name	online boosting trackers	url	http://www.vision.ee.ethz.ch/boostingTrackers/download.htm#download_pre-compiled_win32_binaries	
+type	BOOKMARK	name	西蒙尼：我没钱，但我没怕过谁！_尤文图斯吧_百度贴吧	url	http://tieba.baidu.com/p/2974231886	
+type	BOOKMARK	name	学位论文提交与评审查询系统	url	http://degree.ia.ac.cn:8080/lwms/student/home.jsp	
+type	BOOKMARK	name	Manhattan，Twitter规模的实时、多租户分布式数据库-CSDN.NET	url	http://www.csdn.net/article/2014-04-08/2819197-manhattan-realtime-distributed-database-at-twitter-scale	
+type	BOOKMARK	name	Chrome 34正式发布：支持响应式图像、无前缀网络音频和监督用户-CSDN.NET	url	http://www.csdn.net/article/2014-04-09/2819203	
+type	BOOKMARK	name	对于硬核读者来说，现有的媒体远不能满足他们的需求 | 36氪	url	http://www.36kr.com/p/211069.html	
+type	BOOKMARK	name	稍后阅读应用Pocket正式推出中文版：汉化只是第一步，将与中文内容供应商合作 | 36氪	url	http://www.36kr.com/p/211024.html	
+type	BOOKMARK	name	PowerPoint颠覆者Prezi 5个月增长1000万用户，总用户突破4000万 | 36氪	url	http://www.36kr.com/p/211086.html	
+type	BOOKMARK	name	Docker 0.10.0发布 | CODE	url	http://code.csdn.net/news/2819240	
+type	BOOKMARK	name	钢铁侠只是战五渣？超级英雄战力排行TOP50_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/2976094468?see_lz=1	
+type	BOOKMARK	name	【转帖】欧冠四强主力阵容大PK_切尔西吧_百度贴吧	url	http://tieba.baidu.com/p/2976159738	
+type	BOOKMARK	name	【转帖】欧冠四强主力阵容大PK_切尔西吧_百度贴吧	url	http://tieba.baidu.com/p/2976159738?pn=1	
+type	BOOKMARK	name	【转好文】2013年各大小IT公司待遇_曼联吧_百度贴吧	url	http://tieba.baidu.com/p/2976400572	
+type	BOOKMARK	name	罗本盘带过人进球海量GIF合集！！！_罗本吧_百度贴吧	url	http://tieba.baidu.com/p/2595935158	
+type	BOOKMARK	name	【搜狐】德国国家德比身价PK:拜仁胜出2亿 最贵两人都投南部_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2976472999?see_lz=1	
+type	BOOKMARK	name	如何做到每天写代码？-CSDN.NET	url	http://www.csdn.net/article/2014-04-11/2819256	
+type	BOOKMARK	name	mailbox_百度百科	url	http://baike.baidu.com/link?url=T1PW27cbKcIcxgEFYedKs_Y1DzPfkx6SBhQNBELDjXRCvfetqPkLLGgEjg51oiGddjL3ahgfENoUHVpheIBJ4q	
+type	BOOKMARK	name	China - Country of Concern - Publications - GOV.UK	url	https://www.gov.uk/government/publications/china-country-of-concern	
+type	BOOKMARK	name	是哪些技术把你和小伙伴分开了？ | CODE	url	http://code.csdn.net/news/2819258	
+type	BOOKMARK	name	亚运村15自如寓【自如寓】	url	http://www.ziroomapartment.com/yyczry/index.html	
+type	BOOKMARK	name	convergence_百度搜索	url	http://www.baidu.com/#wd=convergence&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_sug2=0&inputT=1397608658763&rsv_sug3=10&rsv_sug4=87&rsv_sug1=10	
+type	BOOKMARK	name	知道你抽过几根烟的智能打火机Lightir，通过“逆向激励”帮你戒烟 | 36氪	url	http://www.36kr.com/p/211199.html	
+type	BOOKMARK	name	囧叔笑谈俄国吞并克里米亚 - 囧司徒每日秀 - Talk Show	url	http://www.talkshowcn.com/show/20140409_2	
+type	BOOKMARK	name	Lukas Raeder - Player profile - transfermarkt.co.uk	url	http://www.transfermarkt.co.uk/en/lukas-raeder/profil/spieler_125172.html	
+type	BOOKMARK	name	不作死就不会死：一张图证明为什么男人比女人短命。_阿森纳吧_百度贴吧	url	http://tieba.baidu.com/p/2995065925	
+type	BOOKMARK	name	Rusty Nail-视频在线观看-爱奇艺	url	http://www.iqiyi.com/w_19rr23ux0d.html	
+type	BOOKMARK	name	直到世界尽头 灌篮高手（经典感动）mv-视频在线观看-爱奇艺	url	http://www.iqiyi.com/w_19rr1jq475.html	
+type	BOOKMARK	name	直到世界的尽头灌篮高手（不插电）-音乐视频-搜狐视频	url	http://my.tv.sohu.com/us/49163067/16227266.shtml	
+type	BOOKMARK	name	黑鹰酋长的投降宣言_深秋的黎明_新浪博客	url	http://blog.sina.com.cn/s/blog_55c35b0e010005hj.html	
+type	BOOKMARK	name	托马斯·杰斐逊_百度百科	url	http://baike.baidu.com/view/39605.htm?from_id=15275&type=syn&fromtitle=%E6%9D%B0%E5%BC%97%E9%80%8A&fr=aladdin	
+type	BOOKMARK	name	在延安文艺座谈会上的讲话_百度百科	url	http://baike.baidu.com/link?url=BKMcfywbOMXc45uBm0HZA_SObBqhdqevzSJHPwUEHeTINhZJvl1ezrjzpFgoA-Uc	
+type	BOOKMARK	name	SAMSUNG 三星 I9268 智能3G手机(釉白色 移动定制 4.65寸HD Super AMOLED屏幕 最新Android 4.1 1.5G双核CPU 1GBRAM 800W像素)-手机/通讯-亚马逊中国	url	http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-I9268-%E6%99%BA%E8%83%BD3G%E6%89%8B%E6%9C%BA/dp/B00AQCG50G/ref=sr_1_10?s=wireless&ie=UTF8&qid=1398097393&sr=1-10	
+type	BOOKMARK	name	今天起绘图描述各大豪门，长期慢更。_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/2996145783	
+type	BOOKMARK	name	【技术博客推荐】樊哲谈机器学习算法与Mahout-CSDN.NET	url	http://www.csdn.net/article/2014-04-20/2819401-Cloud-BigData	
+type	BOOKMARK	name	10款高效简化移动开发过程的工具-CSDN.NET	url	http://www.csdn.net/article/2014-04-17/2819378-10-mobile-application-development-tools	
+type	BOOKMARK	name	Ratchet	url	http://goratchet.com/	
+type	BOOKMARK	name	Kendo UI HTML5 and jQuery app development framework	url	http://www.telerik.com/kendo-ui	
+type	BOOKMARK	name	创建合规开源项目须知的五步骤 | CODE	url	http://code.csdn.net/news/2819380	
+type	BOOKMARK	name	25款最佳响应式前端开发框架 | CODE	url	http://code.csdn.net/news/2819417	
+type	BOOKMARK	name	囧叔怒喷通用汽车 - 囧司徒每日秀 - Talk Show	url	http://www.talkshowcn.com/show/20140402_1	
+type	BOOKMARK	name	囧叔采访球王贝利 - 囧司徒每日秀 - Talk Show	url	http://www.talkshowcn.com/show/20140403_3	
+type	BOOKMARK	name	【仁吧人品专用】【欧冠半决赛首轮 拜仁大礼包VS皇马银河战舰_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/3000988287?pn=2	
+type	BOOKMARK	name	网易移动应用开发大赛，10万现金大奖等你来拿	url	http://campus.163.com/club/show.do	
+type	BOOKMARK	name	Les Miserables 悲惨世界 电影原声 2CD【图片 价格 品牌 报价】-京东商城	url	http://item.jd.com/1128163418.html	
+type	BOOKMARK	name	美版 Miserables 悲惨世界 电影 原声带 豪华2CD美洲进口原版-淘宝网	url	http://item.taobao.com/item.htm?spm=a230r.1.14.148.nOIOU7&id=38621305641	
+type	BOOKMARK	name	[牛人]老男孩—音乐room—音乐—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XMjk0MjA4NDA4.html	
+type	BOOKMARK	name	音乐room - 优酷视频	url	http://www.youku.com/star_page/uid_UMzE0MzA1Ng==_t_%E6%BC%94%E5%94%B1MV.html	
+type	BOOKMARK	name	[牛人]いつも何度でも—音乐room—音乐—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjYyOTEzNTMy.html?s=785764	
+type	BOOKMARK	name	很有感觉的姐妹弹唱！音乐room_吉他吧_百度贴吧	url	http://tieba.baidu.com/p/2879780413	
+type	BOOKMARK	name	askyb.com » Windows Socket Example: TCP Client and Server	url	http://www.askyb.com/windows-socket/windows-socket-example-tcp-client-and-server/	
+type	BOOKMARK	name	Weibo Article - 新加坡常见三种移民方式	url	http://weibo.com/p/1001603702510887006461	
+type	BOOKMARK	name	被爱的花不被爱的花（日语）_百度知道	url	http://zhidao.baidu.com/link?url=6ZE3l0iioYIWEstlbWrLDCz5NOsLJBcF7x7QtpUHxv3cqmeAd6oXtvuECAHd25z32MAZxg47_O7VaehWrA7RSa	
+type	BOOKMARK	name	Linux socket close(socket)_lyzneuq的空间_百度空间	url	http://hi.baidu.com/lyzneuq/item/e3a43d0b35217b324ac4a3d5	
+type	BOOKMARK	name	linux下socket的close和shutdown - 技术专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/helpxs/article/details/6661951	
+type	BOOKMARK	name	REST实战 (豆瓣)	url	http://book.douban.com/subject/6854551/	
+type	BOOKMARK	name	罗伯特议事法则_百度百科	url	http://baike.baidu.com/link?url=CAirZs_Q_h1IkgzLeuUSyy0XFJP29pr3t8x5q0SUh6qu59l-oNhmUA-6FNnz-3ELX_ta6OkXkJtvuBij9xONSK	
+type	BOOKMARK	name	开会是个技术活 07—在线播放—《罗辑思维 2014》—资讯—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjkwODcwOTQw.html	
+type	BOOKMARK	name	直接拿来用！Facebook移动开源项目大合集-CSDN.NET	url	http://www.csdn.net/article/2014-04-22/2819435-facebook-mobile-open-source-projects	
+type	BOOKMARK	name	文革中“非正常死亡”了多少人？ ---- 读苏扬《文革中农村--博客中国	url	http://jiuliyougancheng.blogchina.com/1195787.html	
+type	BOOKMARK	name	讲座 2013年谷歌开发者大会(1)|TED|新浪公开课|高清TED演讲_新浪视频	url	http://video.sina.com.cn/p/edu/news/2013-05-16/155062434603.html	
+type	BOOKMARK	name	拉里·佩奇: Google下一步将前往何方?—在线播放—《TED演讲集:偶像们》—教育—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNzAyMjEyMDY4.html	
+type	BOOKMARK	name	舟夜书所见_百度百科	url	http://baike.baidu.com/link?url=urzhtQKswqpJRnXFRTdMeQEVzrYJkPisZBNvk0vZ-LLMkm6z3OrlZY4A9nZEqab7	
+type	BOOKMARK	name	(独家)微博上市难掩落寞 社交网络在分化 5年160亿美元的创业机会还在！ | cooboys	url	http://www.cooboys.com/?p=41111#570158-tsina-1-45305-fda6408aca4d1dcee418f6ad4a2ef789	
+type	BOOKMARK	name	全美最高水准：WonderCon2014优秀COS赏【看美帝】_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/3007711572	
+type	BOOKMARK	name	DevOps_百度搜索	url	http://www.baidu.com/s?tn=se_chromelist&wd=DevOps	
+type	BOOKMARK	name	Google Self Driving Car on City Streets - 高清在线观看 - 腾讯视频	url	http://v.qq.com/boke/page/g/u/w/g01289jqcuw.html	
+type	BOOKMARK	name	文章信息	url	http://eadmin.ia.ac.cn:8080/eadmin/info/info.jsp?sMenuID=181&sID=40395&sOP=Browse	
+type	BOOKMARK	name	【ACG 指弹 吉他】城 直樹 -《千与千寻》主题曲 - 「いつも何度でも」—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjEyNjE0MTgw.html	
+type	BOOKMARK	name	创业者早期天使融资或更加透明，真格基金发布仅一页纸的Term Sheet | 36氪	url	http://www.36kr.com/p/211621.html	
+type	BOOKMARK	name	研究报告称，到2017年移动应用总营收有望突破700亿美元 | 36氪	url	http://www.36kr.com/p/211630.html	
+type	BOOKMARK	name	必须Mark！机器人开发框架项目汇总 | CODE	url	http://code.csdn.net/news/2819556	
+type	BOOKMARK	name	今宵多珍重_百度百科	url	http://baike.baidu.com/subview/811276/13093217.htm?fr=aladdin	
+type	BOOKMARK	name	【直播】当拜仁球员脸合体。不止是罗贝里合体。_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/3022006723?see_lz=1#49938218670l	
+type	BOOKMARK	name	塞尔维亚设计师发布足坛巨星复古海报_ac米兰吧_百度贴吧	url	http://tieba.baidu.com/p/3022036948	
+type	BOOKMARK	name	高清：塞尔维亚设计师发布足坛巨星复古海报_体育_腾讯网	url	http://sports.qq.com/a/20140501/015825.htm#p=1	
+type	BOOKMARK	name	c++中ifstream一次读取整个文件 | 夜惊心的博客	url	http://yejinxin.github.io/read-whole-file-in-cpp-with-ifstream/	
+type	BOOKMARK	name	创业团队招募_微软创投加速器	url	http://www.yunjiasuqi.cn/zh-CN/Recruitment/Content	
+type	BOOKMARK	name	对非注册用户更友好，Vine 网页大改版带来 6 秒版 YouTube | 36氪	url	http://www.36kr.com/p/211666.html	
+type	BOOKMARK	name	工业社会向信息社会发展过程中，将会消失的五样东西 | 36氪	url	http://www.36kr.com/p/211637.html	
+type	BOOKMARK	name	你会讲故事吗?Rob Go推荐你3种适用于向VC pitch的讲故事方式 | 36氪	url	http://www.36kr.com/p/211609.html	
+type	BOOKMARK	name	最优秀的招聘对象就在你眼皮底下：积极的员工推荐招聘方法将帮你招聘到就在你眼皮底下的优秀人才 | 36氪	url	http://www.36kr.com/p/211655.html	
+type	BOOKMARK	name	崔萍_百度百科	url	http://baike.baidu.com/subview/321187/5616875.htm?fromId=321187&from=rdtself&fr=wordsearch	
+type	BOOKMARK	name	金钱开启德国足球复兴之路 每年五亿砸向青训_体育_腾讯网	url	http://sports.qq.com/a/20130325/000502.htm	
+type	BOOKMARK	name	Facebook产品设计主管：揭秘公司如何招聘优秀设计师-CSDN.NET	url	http://www.csdn.net/article/2014-05-04/2819592-An-Inside-Look-at-Facebooks-Method-for-Hiring-Designers	
+type	BOOKMARK	name	隆重推荐！七个超酷的免费开源软件 | CODE	url	http://code.csdn.net/news/2819602	
+type	BOOKMARK	name	史上最短小精悍的javascript编写的俄罗斯方块游戏，仅仅60行代码 - 云淡风轻、仅此一抹 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/yaerfeng/article/details/24622349	
+type	BOOKMARK	name	开发者的黄金时代=运维人员的恶梦？-CSDN.NET	url	http://www.csdn.net/article/2014-04-28/2819529-GOLDEN-AGE-OF-DEVELOPERS-NIGHTMARE-FOR-OPS	
+type	BOOKMARK	name	《一周开源弹》05期：不懂开源协议，就别瞎玩了! | CODE	url	http://code.csdn.net/news/2819582	
+type	BOOKMARK	name	林仕鼎 。 《系统架构领域的一些学习材料》 | 弯曲评论	url	http://www.valleytalk.org/2014/03/18/%E6%9E%97%E4%BB%95%E9%BC%8E-%E3%80%82-%E3%80%8A%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E5%AD%A6%E4%B9%A0%E6%9D%90%E6%96%99%E3%80%8B/	
+type	BOOKMARK	name	代码面试最常用的10大算法-CSDN论坛-CSDN.NET-中国最大的IT技术社区	url	http://bbs.csdn.net/topics/390768965	
+type	BOOKMARK	name	面试的最后面试官问你需要问的吗，你会问哪些自己感兴趣的问题呢？-CSDN论坛-CSDN.NET-中国最大的IT技术社区	url	http://bbs.csdn.net/topics/390769880	
+type	BOOKMARK	name	乐活--像曼玉那样活着	url	http://www.dapenti.com/blog/more.asp?name=agile&id=89485	
+type	BOOKMARK	name	乐活--陳丹青演講全文：母語與母國	url	http://www.dapenti.com/blog/more.asp?name=agile&id=89489	
+type	BOOKMARK	name	Google Ideas	url	http://www.google.com/ideas/projects/uproxy/	
+type	BOOKMARK	name	IEEE - Manuscript Templates for Conference Proceedings	url	http://www.ieee.org/conferences_events/conferences/publishing/templates.html	
+type	BOOKMARK	name	燕京大学（北大的前身）老照片 - 热点聚焦 - 桃源论坛 - Powered by Discuz!	url	http://bbs.taoyuan.gov.cn/thread-42629-1-1.html	
+type	BOOKMARK	name	来一波DOTA2英雄背景的帖子，选出你认为背景最屌的英雄！_dota2吧_百度贴吧	url	http://tieba.baidu.com/p/3010989048	
+type	BOOKMARK	name	客如云，智能云餐厅	url	http://www.keruyun.com/	
+type	BOOKMARK	name	戴煌_百度搜索	url	http://www.baidu.com/s?tn=se_chromelist&wd=%E6%88%B4%E7%85%8C	
+type	BOOKMARK	name	GitCafe - Share a cup of Open Source	url	http://upyun.gitcafe.com/	
+type	BOOKMARK	name	Demonstration Portal	url	http://webdemo.myscript.com/home.html;jsessionid=124ru9hcl9np7cj69hpe9h995#equation	
+type	BOOKMARK	name	额叶切除手术_百度百科	url	http://baike.baidu.com/link?url=TMSDxCXRQM9i2yD0QlaD5WXoa8YGCzxIiSH0keOSs9DXu0RkGJzsQr7YDtq5z4gQaPKCAJUSa9rvgVkV7Zb5MK	
+type	BOOKMARK	name	中国移动随E行宽带业务	url	http://211.136.25.211/index.php?wlanuserip=10.46.30.242&wlanacname=1315.0010.100.00&ssid=CMCC-edu&NASID=8045133010000460	
+type	BOOKMARK	name	2014年Q1：智能手机总销量下滑，WP同比反增119%-CSDN.NET	url	http://www.csdn.net/article/2014-05-07/2819660-Q1-2014-smartphone-os-results-Android-dominates	
+type	BOOKMARK	name	特别奖：北京服装学院《漫漫时光》—专辑：《&quot;For Youth&quot;我们在行动2013青少年健康公益微视频大赛获奖作品展示》—在线播放—优酷网，视频高清在线观看	url	http://v.youku.com/v_show/id_XNjU2NDEwMzI4.html?f=21509028	
+type	BOOKMARK	name	格胖子官网图片，怎一个帅字了得？_拜仁慕尼黑吧_百度贴吧	url	http://tieba.baidu.com/p/3029706097	
+type	BOOKMARK	name	张思之_百度百科	url	http://baike.baidu.com/subview/732750/732750.htm	
+type	BOOKMARK	name	不添加任何外接设备，直接用手机也能3D扫描：3D照片分享平台Seene将推出3D扫描功能，预计近期上线 | 36氪	url	http://www.36kr.com/p/211800.html	
+type	BOOKMARK	name	用户为何不愿为效率类 App 掏钱？ | 36氪	url	http://www.36kr.com/p/211805.html	
+type	BOOKMARK	name	从张小龙的七大价值观说开去-CSDN.NET	url	http://www.csdn.net/article/2014-05-07/2819654-WeiXin-Group-zhangxiaolong	
+type	BOOKMARK	name	莎乐美_百度百科	url	http://baike.baidu.com/subview/67236/5081490.htm?fr=aladdin	
+type	BOOKMARK	name	2013年中华人民共和国集中打击整治网络违法犯罪专项行动_百度搜索	url	http://www.baidu.com/#wd=2013%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%9B%86%E4%B8%AD%E6%89%93%E5%87%BB%E6%95%B4%E6%B2%BB%E7%BD%91%E7%BB%9C%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA%E4%B8%93%E9%A1%B9%E8%A1%8C%E5%8A%A8&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduad&rsv_n=2&rsv_sug3=1&rsv_sug4=8&rsv_sug2=0&inputT=700	
+type	BOOKMARK	name	林希翎_百度百科	url	http://baike.baidu.com/view/1330413.htm?fr=aladdin	
+type	BOOKMARK	name	秒杀iPad Mini？微软或将下月发布Surface Mini-CSDN.NET	url	http://www.csdn.net/article/2014-05-08/2819683-surface-mini	
+type	BOOKMARK	name	做好扁平化设计－视觉篇-CSDN.NET	url	http://www.csdn.net/article/2014-05-08/2819674-Flat-design?reload=1	
+type	BOOKMARK	name	好消息：Github编辑器Atom已开源 | CODE	url	http://code.csdn.net/news/2819653	
+type	BOOKMARK	name	女码农献丑-企业智能机器人客服 - jjccwwbb的专栏 - 博客频道 - CSDN.NET	url	http://blog.csdn.net/jjccwwbb/article/details/25278525	
+type	BOOKMARK	name	Well known ports, 23000 to 23999	url	http://www.networksorcery.com/enp/protocol/ip/ports23000.htm	
+type	BOOKMARK	name	铂程斋--当警察来敲门	url	http://www.dapenti.com/blog/more.asp?name=xilei&id=89620	
+type	BOOKMARK	name	秦兵_百度百科	url	http://baike.baidu.com/subview/1159520/10259277.htm?fr=aladdin	
+type	BOOKMARK	name	铂程斋--当警察来敲门	url	http://dapenti.com/blog/more.asp?name=xilei&id=89620	
+type	INV_SON	
