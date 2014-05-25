@@ -1,0 +1,12 @@
+openSSCF
+an open-source c++ code of Socket-based Server/client Framework.
+
+Server: openSSCF_s_linux
+				linked and debuged by gcc~
+				take a closer look at the makeFile
+Client: openSSCF_c_win
+				linked and debuged by VS11
+				uncomment and try each client's operation in the main()
+				
+https://github.com/SeraphConst/openSSCF
+my e-mail is mingran@live.com
